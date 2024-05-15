@@ -1,1398 +1,1352 @@
-
-
-
+                    
 <!DOCTYPE html>
-<html lang="en-IN">
-    <head>
-        <meta name="csrf-param" content="_csrf">
-<meta name="csrf-token" content="Ew2DJkNJy08yqDt_lZUJsxc0q__XRQH1WZwQaThlUoF_adxCJX38GXrODAvA7U_6XlXCnuQHYK88914TXQRg7Q==">
-        <title>Urgent! For 12Th Pass jobs in Indore - May 2024 - 12 current vacancies | Jobsora</title>
-        <meta charset="UTF-8">
-<meta http-equiv="x-ua-compatible" content="ie=edge">
-<meta name="format-detection" content="telephone=no">
-<meta name="HandheldFriendly" content="true">
-<meta name="theme-color" content="#ffffff">
-<meta name="keywords" content="For 12Th Pass jobs in Indore, For 12Th Pass vacancies in Indore">
-<meta name="description" content="Apply to 12 For 12Th Pass Jobs in Indore on Jobsora, India&#039;s No.1 Job Portal. Explore For 12Th Pass Openings in Indore Now!">
-<link href="https://in.jobsora.com/jobs-for-12th-pass-indore" rel="canonical">
-<link href="https://in.jobsora.com/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180">
-<link type="image/x-icon" href="https://in.jobsora.com/favicon.ico" rel="icon">
-<link type="image/png" href="https://in.jobsora.com/favicon-32x32.png" rel="icon" sizes="32x32">
-<link type="image/png" href="https://in.jobsora.com/favicon-16x16.png" rel="icon" sizes="16x16">
-<link href="https://in.jobsora.com/manifest.json" rel="manifest">
-<link href="https://fonts.googleapis.com" rel="preconnect">
-<link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&amp;display=block" rel="stylesheet">
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons&amp;display=block" rel="stylesheet">
-<link href="/static/assets/15ba7c3f/css/main.min.css?v=1714145044" rel="stylesheet">
-<script src="https://www.googletagmanager.com/gtag/js?id=G-ZGJB8LNE6C" async></script>
-<script src="//cdn.cookie-script.com/s/facd48bcccc14f6a4d25cb0ab90a71a5.js" async></script>
-<script>window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag("consent", "default", {ad_storage: "denied",analytics_storage: "granted",wait_for_update: 500});
-gtag("set", "ads_data_redaction", true);
-gtag('config', 'G-ZGJB8LNE6C', {});
-gtag('config', 'AW-579162313');
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window, document,'script','https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '595383295698601');
-fbq('track', 'PageView');
-(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window, document, "clarity", "script", "fki0vkm6b8")</script>    </head>
-    <body>
-                        <div class="w-page w-page--unlimited">
-    <div class="w-page__top ">
-                
-<header class="c-main-header">
-    <div class="c-main-header__top">
-        <div class="w-centered w-centered--xl">
-            <div class="c-main-header__row">
-                <div class="c-main-header__cell">
+<html lang="en">
+<head>
+<script>
+    var title = "IPL 2024 Statistics | Team and Player Stats";
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({
+        'client_ga_id': '308089989',
+        'content_type': title,
+        'platform_type': 'web',
+        'environment': 'production',
+    });
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PQ2QKF4');</script>
+<!-- End Google Tag Manager -->
+    <title id="page_title" data-page-title="IPL 2024 Statistics | Team and Player Stats">IPL 2024 Statistics | Team and Player Stats</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, user-scalable=no" />
+    <meta name="csrf-token" content="WYSbrDFOudlsTChZhQXHvI6qwsZQ8GggesDqOPnX">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <meta name="theme-color" content="#19398a">
 
-                    
-<button class="c-ico-button js-drawer-toggler">
-    <i class="material-icons c-ico c-ico--md" data-ico="menu"></i>
-</button>
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="og:type" content="website">
+    <meta name="twitter:title" content="IPL 2024 Statistics | Team and Player Stats">
+    <meta name="og:url"  content="https://www.iplt20.com/stats">
+    <meta name="og:title"  content="IPL 2024 Statistics | Team and Player Stats">
+  
+    <meta name="og:description" content="View IPL 2024 statistics including orange and purple cap with all time records on the official website of the IPLT20.">  
+        <meta name="og:image" content="https://www.iplt20.com/assets/images/ipl-share-img.png">
+    <meta name="og:image:secure_url" content="https://www.iplt20.com/assets/images/ipl-share-img.png">
+
+    <meta name="keywords" content="IPL full stats, Ipl 2023 stats, ipl 2023 stats, ipl records, ipl team records, ipl awards, ipl most sixes, ipl most fours, ipl long six, ipl most runs, virat ipl runs, ipl best team,  Indian Premier League, Indian cricket League, Csk, MI, SRH, DC, RR, GT, LSG, RCB, KKR, PBKS, TATA IPL, ipl 2023, Tata IPL 2023, Chennai Super Kings, Delhi Capitals, Gujarat Titans, Kolkata Knight Riders, Lucknow Super Giants, Mumbai Indians, Punjab Kings, Rajasthan Royals, Royal Challengers Bangalore, Sunrisers Hyderabad, Ipl all time records, ipl records list, ipl players stats.">  
+    <meta name="description" content="View IPL 2024 statistics including orange and purple cap with all time records on the official website of the IPLT20.">  
+  
+    
+    
+    <!-- <meta name="og:image"   content="https://www.iplt20.com/assets/images/ipl-share-img.png"> -->
+    
+     <!-- <meta name="og:image:secure_url"   content="https://www.iplt20.com/assets/images/ipl-share-img.png"> -->
+   
+   
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PQ2QKF4');</script>
+    <!-- End Google Tag Manager -->
+
+    <link rel="shortcut icon" href="https://www.iplt20.com/img/favicon.ico">
+    
+    <link rel="preload" onload="this.onload=null;this.rel='stylesheet'" as="style" href="https://www.iplt20.com/assets/css/bootstrap-5.1.3.min.css?v=1.7.30">
+    <noscript><link rel="stylesheet" href="https://www.iplt20.com/assets/css/bootstrap-5.1.3.min.css?v=1.7.30"></noscript>
+    <!-- <link rel="stylesheet" href="https://www.iplt20.com/assets/css/owlcarousel-2.3.4.min.css?v=1.5.6 "> -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://www.googletagmanager.com">
+
+    <link rel="preload" onload="this.onload=null;this.rel='stylesheet'" as="style" href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@1,700&display=swap">
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@1,700&display=swap"></noscript>
+    <!-- <link rel="stylesheet" href="https://www.iplt20.com/assets/css/bootstrap-4.5.2.min.css "> -->
+    <link rel="preload" onload="this.onload=null;this.rel='stylesheet'" as="style" href="https://www.iplt20.com/slick/slick.css?v=1.7.30 ">
+    <noscript><link rel="stylesheet" href="https://www.iplt20.com/slick/slick.css?v=1.7.30"></noscript>
+    <!-- <link rel="stylesheet" href="https://www.iplt20.com/slick/slick-theme.css?v=1.5.6"> -->
+    
+            <link rel="preload" onload="this.onload=null;this.rel='stylesheet'" as="style" href="https://www.iplt20.com/assets/js/mcustom/jquery.mCustomScrollbar.min.css?v=1.7.30">
+    <noscript><link rel="stylesheet" href="https://www.iplt20.com/assets/js/mcustom/jquery.mCustomScrollbar.min.css?v=1.7.30"></noscript>
+    
+        <link rel="preload" onload="this.onload=null;this.rel='stylesheet'" as="style" href="https://www.iplt20.com/assets/css/dataTables.min.css?v=1.7.30">
+    
+        <link rel="preload" onload="this.onload=null;this.rel='stylesheet'" as="style"  href="https://www.iplt20.com/assets/css/ipl-style-a.min.css?v=1.7.30">
+    <noscript><link rel="stylesheet" href="https://www.iplt20.com/assets/css/ipl-style-a.min.css?v=1.7.30"></noscript>
+    <link rel="preload" onload="this.onload=null;this.rel='stylesheet'" as="style" href="https://www.iplt20.com/assets/css/ipl-style-n.min.css?v=1.7.30">
+    <noscript><link rel="stylesheet" href="https://www.iplt20.com/assets/css/ipl-style-n.min.css?v=1.7.30"></noscript>
+    <link rel="stylesheet" href="https://www.iplt20.com/assets/css/ipl-style.min.css?v=1.7.30">
+    
+    <link rel="preload" onload="this.onload=null;this.rel='stylesheet'" as="style" href="https://www.iplt20.com/assets/css/font-awesome.min.css?v=1.7.30">
+    <noscript><link rel="stylesheet" href="https://www.iplt20.com/assets/css/font-awesome.min.css?v=1.7.30"></noscript>
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" defer></script>
+
+    <link rel="preload" href="https://www.iplt20.com/assets/images/header-logo-bomb-left.svg" as="image" type="image/svg+xml">
+
+    <script>
+      // ideally this is on top of page; works on bottom as well
+      if(/^\?fbclid=/.test(location.search))
+         location.replace(location.href.replace(/\?fbclid.+/, ""));
+     </script>
+    
+            <style>
+        .fan .ap-stat-table,.fan .modal-title{background:0 0;width:100%}ul.sub-menu li.activate a{color:#329ed9!important}.fan .modal-dialog{float:right;right:70px}.fan .modal-title{color:#ef4123;font-weight:700;font-size:27px}.fan .nav-item{width:50%;text-align:center}.fan .nav-pills .nav-link.active,.nav-pills .show>.nav-link{color:#fff;background-color:#ef4123}.fan ul{background:linear-gradient(71.81deg,#18184a 25.64%,#19398a 66.22%,#18184a 114.53%);padding:3px;border-radius:7px;overflow:hidden}.fan ul a{color:#fff;font-weight:700}.fan .modal-header .close{padding:4px 10px;margin:0;font-size:37px;font-weight:400}.ov-card{background:#fff;border-radius:4px;border:2px solid rgba(0 0 0 / 5%);box-shadow:2px 2px 5px #dee2e6}.ov-card .progress,.team-selection{box-shadow:0 4.00779px 8.01557px rgba(0,0,0,.25)}.ov-card b{color:#18184a}.team-selection{border-radius:10px}.team-selection>div{width:calc(100% - 27px);text-transform:uppercase;float:left;padding-right:10px}.team-selection span img{width:5%}.ov-card .progress{height:2rem;background:#fff}.ov-card .progress-bar{background:linear-gradient(180deg,#006cb7 0,#003b7a 100%);text-align:center;text-transform:uppercase;font-size:16px;font-weight:700}.sticky{position:fixed;top:0;width:100%;z-index:999}.sticky+.content{padding-top:102px}.btn-for-search{background:#ef4123!important;color:#fff;padding:4px 23px;border-radius:5px;width:100%;font-size:1rem;font-weight:800;height:2.4rem}#searchButtonForHeader b{color:#fff}#searchButtonForHeader i{color:#fff;font-size:17px}@media  only screen and (max-width:600px){#searchButtonForHeader img{margin-top:0}#searchButtonForHeader b{display:none}}
+
+            </style>
 
 
-                    <a class="c-main-header__logo" href="https://in.jobsora.com/" title="Job search at Jobsora.com"><img src="/static/assets/15ba7c3f/img/general/index-logo.svg" width="86" height="25" alt="Job search at Jobsora.com"></a>
-                    
-                        <a class="c-link" href="https://in.jobsora.com/" rel="nofollow">Find Jobs</a>
-                    
-                        <a class="c-link" href="https://in.jobsora.com/blog">Blog</a>
-                                    </div>
-                <div class="c-main-header__cell">
-                    
-                        <a class="c-link" href="https://in.jobsora.com/account/cv/create" rel="nofollow" data-ico="assignment_ind">Upload your CV</a>
-                    
-                        <a class="c-link" href="https://in.jobsora.com/login" rel="nofollow" data-ico="person">Sign in</a>
-                                    </div>
+
+
+    <header class="ap-header col-100 floatLft" id="header-main">
+        <div class="ap-stripWht py-2">
+            <div class="container pe-0">
+                <div class="d-flex justify-content-between">
+                    <span class="ap-bcciLogo">
+                       <!--  <a href="" target="_blank" class="text-white"><img style="width:34px" src="https://www.iplt20.com/assets/images/headeripllogo.svg" alt="IPl Logo">2023</a> &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; -->
+                        <a href="https://www.bcci.tv/" target="_blank"><img src="https://www.iplt20.com/assets/images/BCCI_logo.png" alt="BCCI Logo">BCCI.TV</a> &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="https://www.wplt20.com/" target="_blank"><img style="height:22px;width:auto" src="https://www.iplt20.com/assets/images/womens-premier-league-logo.svg" alt="WPL Logo"></a>
+                    </span>
+                    <span class="ap-socialDiv">
+                        <span>Follow Us</span>
+                       <!--  <a onclick="click_social(this)" data-title="thread" href="https://www.threads.net/@iplt20" target="_blank" class="twit">
+                            <img src="https://www.iplt20.com/assets/images/thread-icon.svg" alt="threads">
+                        </a> -->
+                        <a onclick="click_social(this)" data-title="twitter" href="https://twitter.com/IPL" target="_blank" class="twit">
+                            <img src="https://www.iplt20.com/assets/images/new-twitter-icon.svg" alt="twitter">
+                        </a>
+                        <a onclick="click_social(this)" data-title="instagram" href="https://www.instagram.com/iplt20/" target="_blank" class="insta">
+                            <img src="https://www.iplt20.com/assets/images/new-instagram-icon.svg" alt="instagram">
+                        </a>
+                        <a onclick="click_social(this)" data-title="facebook" href="https://www.facebook.com/IPL/" target="_blank" class="fb">
+                            <img src="https://www.iplt20.com/assets/images/new-facebook-icon.svg" alt="facebook">
+                        </a>
+                    </span>
+                </div>
             </div>
         </div>
-    </div>
-
-    <div class="c-main-header__bottom"><div class="w-centered w-centered--xl">
-                    
-<form class="c-main-search" action="https://in.jobsora.com/jobs" method="post" autocomplete="off">
-<input type="hidden" name="_csrf" value="Ew2DJkNJy08yqDt_lZUJsxc0q__XRQH1WZwQaThlUoF_adxCJX38GXrODAvA7U_6XlXCnuQHYK88914TXQRg7Q==">    <div class="c-main-search__row">
-        <div class="c-main-search__cell">
-            <div class="c-main-search__form c-outer-autocomplete ">
-                                <label class="c-main-search__label" for="query-2r6nIvUZ">
-                    <svg class="c-ico-svg c-ico-svg--xs c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M9.5,3A6.5,6.5 0 0,1 16,9.5C16,11.11 15.41,12.59 14.44,13.73L14.71,14H15.5L20.5,19L19,20.5L14,15.5V14.71L13.73,14.44C12.59,15.41 11.11,16 9.5,16A6.5,6.5 0 0,1 3,9.5A6.5,6.5 0 0,1 9.5,3M9.5,5C7,5 5,7 5,9.5C5,12 7,14 9.5,14C12,14 14,12 14,9.5C14,7 12,5 9.5,5Z" fill="currentColor"></path></svg>                    What                </label>
-                <input type="text" id="query-2r6nIvUZ" name="query" value="For 12Th Pass" placeholder="Job title, keywords, or company">            </div>
-        </div>
-        <div class="c-main-search__cell">
-            <div class="c-main-search__form c-outer-autocomplete ">
-                                <label class="c-main-search__label" for="location-lkrR_pAo">
-                    <svg class="c-ico-svg c-ico-svg--xs c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M12,6.5A2.5,2.5 0 0,1 14.5,9A2.5,2.5 0 0,1 12,11.5A2.5,2.5 0 0,1 9.5,9A2.5,2.5 0 0,1 12,6.5M12,2A7,7 0 0,1 19,9C19,14.25 12,22 12,22C12,22 5,14.25 5,9A7,7 0 0,1 12,2M12,4A5,5 0 0,0 7,9C7,10 7,12 12,18.71C17,12 17,10 17,9A5,5 0 0,0 12,4Z" fill="currentColor"></path></svg>                    Where                </label>
-                <input type="text" id="location-lkrR_pAo" name="location" value="Indore" placeholder="City, state, or pin code">            </div>
-        </div>
-        <div class="c-main-search__cell c-main-search__cell--half">
-            <button class="c-btn c-btn--md c-main-search__btn" type="submit">
-                Find Jobs            </button>
-        </div>
-    </div>
-
-</form>        
-            </div></div>
-</header>
-    </div>
-    <div class="w-page__content ">
+        
+        <div class="ap-main-header left right col-100 floatLft flexDisplay justifySpace alignCenter flxNav" id="myHeader">
+            <div class="container d-flex justify-content-between flex-wrap position-relative p-0">
+                <div class="ap-ipl-logo"><a href="https://www.iplt20.com"><img class="lazy" src="https://www.iplt20.com/assets/images/ipl-logo-new-old.png" alt=""></a></div>
                 
-<div class="c-main-container">
-    <div class="w-centered w-centered--xl">
-        <div class="grid-common grid-common--nowrap">
-            <aside class="grid-common__col-3">
 
-                <form class="c-filter-group w-gap-lg js-auto-submit-form" action="https://in.jobsora.com/jobs" method="post">
-<input type="hidden" name="_csrf" value="Ew2DJkNJy08yqDt_lZUJsxc0q__XRQH1WZwQaThlUoF_adxCJX38GXrODAvA7U_6XlXCnuQHYK88914TXQRg7Q==">
-    
-        <header class="c-filter-group__header">
-
-            <div class="c-filter-group__title">
-                <div class="c-h5">Filters</div>
-                            </div>
-
-            
-        </header>
-
-        <input type="hidden" name="query" value="For 12Th Pass"><input type="hidden" name="location" value="Indore"><input type="hidden" name="distance" value="4">
-<div class="c-filter-group__section">
-
-    
-<div class="c-title-collapse js-ft-container">    <button type="button" class="js-ft-toggler c-title-collapse__title" data-toggle="collapse" data-target="#collapse-ZXNAltxL" aria-expanded="true">        Distance        <i class="material-icons c-ico c-ico--primary c-ico--md" data-ico="keyboard_arrow_down"></i>
-    </button>
-    <div id="collapse-ZXNAltxL" class="c-title-collapse__collapse collapse in">
-        <div class="c-title-collapse__content">
-            <div class="c-input-list w-gap-sm w-gap-sm--reverse js-toggle-container">
-
-                                    <label class="c-input-list__item  js-ft-item">
-                        <input type="radio" class="c-input-list__input" name="distance" value="1">                        <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                        <span class="c-input-list__text">
-                            <span>Exact location</span>                                                    </span>
-                    </label>
-                                    <label class="c-input-list__item  js-ft-item">
-                        <input type="radio" class="c-input-list__input" name="distance" value="2">                        <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                        <span class="c-input-list__text">
-                            <span>5 km</span>                                                    </span>
-                    </label>
-                                    <label class="c-input-list__item  js-ft-item">
-                        <input type="radio" class="c-input-list__input" name="distance" value="3">                        <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                        <span class="c-input-list__text">
-                            <span>10 km</span>                                                    </span>
-                    </label>
-                                    <label class="c-input-list__item  js-ft-item">
-                        <input type="radio" class="c-input-list__input" name="distance" value="4" checked>                        <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                        <span class="c-input-list__text">
-                            <span data-reset="1">15 km</span>                                                    </span>
-                    </label>
-                
-                            </div>
-        </div>
-
-    </div></div></div>
-
-<div class="c-filter-group__section">
-
-    
-<div class="c-title-collapse js-ft-container">    <button type="button" class="js-ft-toggler c-title-collapse__title" data-toggle="collapse" data-target="#collapse-AOlJCKnZ" aria-expanded="true">        Date Posted        <i class="material-icons c-ico c-ico--primary c-ico--md" data-ico="keyboard_arrow_down"></i>
-    </button>
-    <div id="collapse-AOlJCKnZ" class="c-title-collapse__collapse collapse in">
-        <div class="c-title-collapse__content">
-            <div class="c-input-list w-gap-sm w-gap-sm--reverse js-toggle-container">
-
-                                    <label class="c-input-list__item  js-ft-item">
-                        <input type="radio" class="c-input-list__input" name="interval" value="1">                        <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                        <span class="c-input-list__text">
-                            <span>Today</span>                                                    </span>
-                    </label>
-                                    <label class="c-input-list__item  js-ft-item">
-                        <input type="radio" class="c-input-list__input" name="interval" value="3">                        <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                        <span class="c-input-list__text">
-                            <span>3 days</span>                                                    </span>
-                    </label>
-                                    <label class="c-input-list__item  js-ft-item">
-                        <input type="radio" class="c-input-list__input" name="interval" value="7">                        <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                        <span class="c-input-list__text">
-                            <span>7 days</span>                                                    </span>
-                    </label>
-                                    <label class="c-input-list__item  js-ft-item">
-                        <input type="radio" class="c-input-list__input" name="interval" value="" checked>                        <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                        <span class="c-input-list__text">
-                            <span data-reset="1">All days</span>                                                    </span>
-                    </label>
-                
-                            </div>
-        </div>
-
-    </div></div></div>
-
-<div class="c-filter-group__section js-salary-input-container">
-    
-<div class="c-title-collapse js-ft-container">    <button type="button" class="js-ft-toggler c-title-collapse__title" data-toggle="collapse" data-target="#collapse-boe-c4W7" aria-expanded="true">        Salary        <i class="material-icons c-ico c-ico--primary c-ico--md" data-ico="keyboard_arrow_down"></i>
-    </button>
-    <div id="collapse-boe-c4W7" class="c-title-collapse__collapse collapse in">
-        <div class="c-title-collapse__content js-salary-input-container">
-            <div class="c-input-list w-gap-sm w-gap-sm--reverse js-toggle-container">
-
-                                    <label class="c-input-list__item  js-ft-item">
-                        <input type="radio" class="c-input-list__input js-salary-input-option" name="" value="" checked>                        <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                        <span class="c-input-list__text">
-                            <span data-reset="1">Any</span>                                                    </span>
-                    </label>
-                                    <label class="c-input-list__item  js-ft-item">
-                        <input type="radio" class="c-input-list__input js-salary-input-option" name="" value="200000">                        <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                        <span class="c-input-list__text">
-                            <span>from ₹2,00,000</span>                                                    </span>
-                    </label>
-                                    <label class="c-input-list__item  js-ft-item">
-                        <input type="radio" class="c-input-list__input js-salary-input-option" name="" value="300000">                        <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                        <span class="c-input-list__text">
-                            <span>from ₹3,00,000</span>                                                    </span>
-                    </label>
-                                    <label class="c-input-list__item  js-ft-item">
-                        <input type="radio" class="c-input-list__input js-salary-input-option" name="" value="500000">                        <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                        <span class="c-input-list__text">
-                            <span>from ₹5,00,000</span>                                                    </span>
-                    </label>
-                                    <label class="c-input-list__item  js-ft-item">
-                        <input type="radio" class="c-input-list__input js-salary-input-option" name="" value="700000">                        <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                        <span class="c-input-list__text">
-                            <span>from ₹7,00,000</span>                                                    </span>
-                    </label>
-                                    <label class="c-input-list__item  js-toggle-item u-hidden js-ft-item">
-                        <input type="radio" class="c-input-list__input js-salary-input-option" name="" value="900000">                        <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                        <span class="c-input-list__text">
-                            <span>from ₹9,00,000</span>                                                    </span>
-                    </label>
-                                    <label class="c-input-list__item  js-toggle-item u-hidden js-ft-item">
-                        <input type="radio" class="c-input-list__input js-salary-input-option" name="" value="1300000">                        <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                        <span class="c-input-list__text">
-                            <span>from ₹13,00,000</span>                                                    </span>
-                    </label>
-                                    <label class="c-input-list__item  js-toggle-item u-hidden js-ft-item">
-                        <input type="radio" class="c-input-list__input js-salary-input-option" name="" value="-1">                        <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                        <span class="c-input-list__text">
-                            <span>Other</span>                                                    </span>
-                    </label>
-                                <div class="c-input-list__form js-salary-input-item-container" style="display: none;">
-                    <input type="text" class="c-text-field js-salary-input-item" name="salary" placeholder="Enter salary estimate">                </div>
-                
-                    <button type="button" class="c-toggler-btn js-toggle-handler is-hidden" data-text-hidden="Show more" data-text-opened="Hide"><svg class="c-ico-svg c-ico-svg--sm c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M7,10L12,15L17,10H7Z" fill="currentColor"></path></svg></button>
-                            </div>
-        </div>
-
-    </div></div></div>
-
-<div class="c-filter-group__section">
-
-    
-<div class="c-title-collapse js-ft-container">    <button type="button" class="js-ft-toggler c-title-collapse__title" data-toggle="collapse" data-target="#collapse-OzV1P3iH" aria-expanded="true">        Pay period        <i class="material-icons c-ico c-ico--primary c-ico--md" data-ico="keyboard_arrow_down"></i>
-    </button>
-    <div id="collapse-OzV1P3iH" class="c-title-collapse__collapse collapse in">
-        <div class="c-title-collapse__content">
-            <div class="c-input-list w-gap-sm w-gap-sm--reverse js-toggle-container">
-
-                                    <label class="c-input-list__item  js-ft-item">
-                        <input type="radio" class="c-input-list__input" name="period" value="" checked>                        <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                        <span class="c-input-list__text">
-                            <span data-reset="1">Any</span>                                                    </span>
-                    </label>
-                                    <label class="c-input-list__item  js-ft-item">
-                        <input type="radio" class="c-input-list__input" name="period" value="1">                        <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                        <span class="c-input-list__text">
-                            <span>Hourly</span>                                                    </span>
-                    </label>
-                                    <label class="c-input-list__item  js-ft-item">
-                        <input type="radio" class="c-input-list__input" name="period" value="2">                        <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                        <span class="c-input-list__text">
-                            <span>Daily</span>                                                    </span>
-                    </label>
-                                    <label class="c-input-list__item  js-ft-item">
-                        <input type="radio" class="c-input-list__input" name="period" value="4">                        <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                        <span class="c-input-list__text">
-                            <span>Monthly</span>                                                    </span>
-                    </label>
-                                    <label class="c-input-list__item  js-ft-item">
-                        <input type="radio" class="c-input-list__input" name="period" value="5">                        <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                        <span class="c-input-list__text">
-                            <span>Yearly</span>                                                    </span>
-                    </label>
-                
-                            </div>
-        </div>
-
-    </div></div></div>
-
-<div class="c-filter-group__section">
-
-    
-<div class="c-title-collapse js-ft-container">    <button type="button" class="js-ft-toggler c-title-collapse__title" data-toggle="collapse" data-target="#collapse-m0_cn5SU" aria-expanded="true">        Work experience        <i class="material-icons c-ico c-ico--primary c-ico--md" data-ico="keyboard_arrow_down"></i>
-    </button>
-    <div id="collapse-m0_cn5SU" class="c-title-collapse__collapse collapse in">
-        <div class="c-title-collapse__content">
-            <div class="c-input-list w-gap-sm w-gap-sm--reverse js-toggle-container">
-
-                                    <label class="c-input-list__item  js-ft-item">
-                        <input type="radio" class="c-input-list__input" name="experience" value="" checked>                        <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                        <span class="c-input-list__text">
-                            <span data-reset="1">Any</span>                                                    </span>
-                    </label>
-                                    <label class="c-input-list__item  js-ft-item">
-                        <input type="radio" class="c-input-list__input" name="experience" value="0">                        <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                        <span class="c-input-list__text">
-                            <span>No experience</span>                                                    </span>
-                    </label>
-                                    <label class="c-input-list__item  js-ft-item">
-                        <input type="radio" class="c-input-list__input" name="experience" value="1">                        <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                        <span class="c-input-list__text">
-                            <span>1+ year</span>                                                    </span>
-                    </label>
-                                    <label class="c-input-list__item  js-ft-item">
-                        <input type="radio" class="c-input-list__input" name="experience" value="3">                        <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                        <span class="c-input-list__text">
-                            <span>3+ years</span>                                                    </span>
-                    </label>
-                                    <label class="c-input-list__item  js-ft-item">
-                        <input type="radio" class="c-input-list__input" name="experience" value="5">                        <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                        <span class="c-input-list__text">
-                            <span>5+ years</span>                                                    </span>
-                    </label>
-                
-                            </div>
-        </div>
-
-    </div></div></div>
-
-<div class="c-filter-group__section">
-
-    
-<div class="c-title-collapse js-ft-container">    <button type="button" class="js-ft-toggler c-title-collapse__title" data-toggle="collapse" data-target="#collapse-1OZ7-L5z" aria-expanded="true">        Job Type        <i class="material-icons c-ico c-ico--primary c-ico--md" data-ico="keyboard_arrow_down"></i>
-    </button>
-    <div id="collapse-1OZ7-L5z" class="c-title-collapse__collapse collapse in">
-    <div class="c-title-collapse__content js-toggle-container">
-        <div class="c-input-list w-gap-sm w-gap-sm--reverse js-multiple-filter-container">
-
-                            <label class="c-input-list__item  js-ft-item">
-                    <input type="radio" class="c-input-list__input js-multiple-filter-radio" name="employmentIds" value="" checked>
-                    <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                    <span class="c-input-list__text">
-                        <span data-reset="1">Any</span>
-                                            </span>
-                </label>
-            
-                            <label class="c-input-list__item  js-ft-item">
-
-                    <input type="checkbox" class="c-input-list__input js-multiple-filter-checkbox" name="employmentIds[]" value="1">                    <i class="c-input-list__ico material-icons" data-ico="check_box_outline_blank" data-ico-checked="check_box"></i>
-                    <span class="c-input-list__text">
-                        <span>Full-time</span>                                            </span>
-                </label>
-
-                            <label class="c-input-list__item  js-ft-item">
-
-                    <input type="checkbox" class="c-input-list__input js-multiple-filter-checkbox" name="employmentIds[]" value="2">                    <i class="c-input-list__ico material-icons" data-ico="check_box_outline_blank" data-ico-checked="check_box"></i>
-                    <span class="c-input-list__text">
-                        <span>Part-time</span>                                            </span>
-                </label>
-
-                            <label class="c-input-list__item  js-ft-item">
-
-                    <input type="checkbox" class="c-input-list__input js-multiple-filter-checkbox" name="employmentIds[]" value="5">                    <i class="c-input-list__ico material-icons" data-ico="check_box_outline_blank" data-ico-checked="check_box"></i>
-                    <span class="c-input-list__text">
-                        <span>Temporary</span>                                            </span>
-                </label>
-
-            
-                    </div>
-    </div>
-
-    </div></div>
-</div>
-
-<div class="c-filter-group__section">
-
-    
-<div class="c-title-collapse js-ft-container">    <button type="button" class="js-ft-toggler c-title-collapse__title" data-toggle="collapse" data-target="#collapse--Fyi86pF" aria-expanded="true">        Remote        <i class="material-icons c-ico c-ico--primary c-ico--md" data-ico="keyboard_arrow_down"></i>
-    </button>
-    <div id="collapse--Fyi86pF" class="c-title-collapse__collapse collapse in">
-        <div class="c-title-collapse__content">
-            <div class="c-input-list w-gap-sm w-gap-sm--reverse js-toggle-container">
-
-                                    <label class="c-input-list__item  js-ft-item">
-                        <input type="radio" class="c-input-list__input" name="remote" value="" checked>                        <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                        <span class="c-input-list__text">
-                            <span data-reset="1">Any</span>                                                    </span>
-                    </label>
-                                    <label class="c-input-list__item  js-ft-item">
-                        <input type="radio" class="c-input-list__input" name="remote" value="1">                        <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                        <span class="c-input-list__text">
-                            <span>Remote</span>                                                    </span>
-                    </label>
-                                    <label class="c-input-list__item  js-ft-item">
-                        <input type="radio" class="c-input-list__input" name="remote" value="2">                        <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                        <span class="c-input-list__text">
-                            <span>Hybrid</span>                                                    </span>
-                    </label>
-                                    <label class="c-input-list__item  js-ft-item">
-                        <input type="radio" class="c-input-list__input" name="remote" value="3">                        <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                        <span class="c-input-list__text">
-                            <span>Temporarily remote</span>                                                    </span>
-                    </label>
-                
-                            </div>
-        </div>
-
-    </div></div></div>
-
-<div class="c-filter-group__section">
-
-    
-<div class="c-title-collapse js-ft-container">    <button type="button" class="js-ft-toggler c-title-collapse__title" data-toggle="collapse" data-target="#collapse-Ksv2ytJ5" aria-expanded="true">        Company        <i class="material-icons c-ico c-ico--primary c-ico--md" data-ico="keyboard_arrow_down"></i>
-    </button>
-    <div id="collapse-Ksv2ytJ5" class="c-title-collapse__collapse collapse in">
-    <div class="c-title-collapse__content js-toggle-container">
-        <div class="c-input-list w-gap-sm w-gap-sm--reverse js-multiple-filter-container">
-
-                            <label class="c-input-list__item  js-ft-item">
-                    <input type="radio" class="c-input-list__input js-multiple-filter-radio" name="companyIds" value="" checked>
-                    <i class="c-input-list__ico material-icons" data-ico="radio_button_unchecked" data-ico-checked="radio_button_checked"></i>
-                    <span class="c-input-list__text">
-                        <span data-reset="1">Any</span>
-                                            </span>
-                </label>
-            
-                            <label class="c-input-list__item  js-ft-item">
-
-                    <input type="checkbox" class="c-input-list__input js-multiple-filter-checkbox" name="companyIds[]" value="13355">                    <i class="c-input-list__ico material-icons" data-ico="check_box_outline_blank" data-ico-checked="check_box"></i>
-                    <span class="c-input-list__text">
-                        <span>Yash Technologies</span>                        <span class="u-text-secondary u-ml-7">2</span>                    </span>
-                </label>
-
-                            <label class="c-input-list__item  js-ft-item">
-
-                    <input type="checkbox" class="c-input-list__input js-multiple-filter-checkbox" name="companyIds[]" value="88139">                    <i class="c-input-list__ico material-icons" data-ico="check_box_outline_blank" data-ico-checked="check_box"></i>
-                    <span class="c-input-list__text">
-                        <span>Ignis</span>                        <span class="u-text-secondary u-ml-7">1</span>                    </span>
-                </label>
-
-                            <label class="c-input-list__item  js-ft-item">
-
-                    <input type="checkbox" class="c-input-list__input js-multiple-filter-checkbox" name="companyIds[]" value="97411">                    <i class="c-input-list__ico material-icons" data-ico="check_box_outline_blank" data-ico-checked="check_box"></i>
-                    <span class="c-input-list__text">
-                        <span>Paradise Placement Consultancy</span>                        <span class="u-text-secondary u-ml-7">1</span>                    </span>
-                </label>
-
-            
-                    </div>
-    </div>
-
-    </div></div>
-</div>
-
-    
-</form>
-                <div class="c-payload w-gap-lg">                    <span dynamic-block="BannerDynamicBlock"></span>                </div>
-            </aside>
-            <main class="grid-common__col-9">
-                <div class="c-result-panel w-gap-lg">
-                    
-<ul class="c-crumbs">
-            <li class="c-crumbs__item">
-            <a class="c-crumbs__link" href="https://in.jobsora.com/">Jobs</a>        </li>
-            <li class="c-crumbs__item">
-            <a class="c-crumbs__link" href="https://in.jobsora.com/jobs-india">India</a>        </li>
-            <li class="c-crumbs__item">
-            <a class="c-crumbs__link" href="https://in.jobsora.com/jobs-madhya-pradesh">Madhya Pradesh</a>        </li>
-            <li class="c-crumbs__item">
-            <a class="c-crumbs__link" href="https://in.jobsora.com/jobs-indore">Indore</a>        </li>
-            <li class="c-crumbs__item">
-            <span>For 12Th Pass</span>        </li>
-    </ul>
-
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Jobs","item":"https:\/\/in.jobsora.com\/"},{"@type":"ListItem","position":2,"name":"India","item":"https:\/\/in.jobsora.com\/jobs-india"},{"@type":"ListItem","position":3,"name":"Madhya Pradesh","item":"https:\/\/in.jobsora.com\/jobs-madhya-pradesh"},{"@type":"ListItem","position":4,"name":"Indore","item":"https:\/\/in.jobsora.com\/jobs-indore"},{"@type":"ListItem","position":5,"name":"For 12Th Pass"}]}</script>
-
-                                        <h1 class="c-h5">For 12Th Pass jobs in Indore</h1>
-                    
-                        <div class="c-result-panel__row">
-                            <div class="c-result-panel__cell">
-                                
-<div class="c-result-panel__value">
-        Found 12 jobs</div>
-
-                            </div>
-                            <div class="c-result-panel__cell">
-                                
-<div class="c-result-panel__item">Sort by:</div>
-<div class="c-drop-down c-result-panel__drop-down">
-    <button class="c-link" type="button" data-toggle="dropdown" data-ico="arrow_drop_down">
-        relevance    </button>
-    <div class="dropdown">
-                    <span class="c-drop-down__link is-active js-clickable" data-ico="done" data-href="https://in.jobsora.com/jobs-for-12th-pass-indore">                relevance            </span>                    <span class="c-drop-down__link js-clickable" data-ico="done" data-href="https://in.jobsora.com/jobs-for-12th-pass-indore?sort=date">                date            </span>            </div>
-</div>
-                            </div>
+                <div class="site-mobile-menu site-navbar-target">
+                    <div class="site-mobile-menu-header xxxxxxxxxxx">
+                        <a href="https://www.iplt20.com" class="mt-3"><img width="65" src="https://www.iplt20.com/assets/images/ipl-logo-new-old.png" alt=""></a>
+                        <div class="site-mobile-menu-close mt-3">
+                            <span class="icon-close2 js-menu-toggle">×</span>
                         </div>
+                    </div>
+                    <div class="site-mobile-menu-body">
+                    </div>
+                </div> <!-- .site-mobile-menu -->
 
-                                    </div>
-
-                
-    
-    
-    
-    
-<article class="js-listing-item c-job-item w-gap-lg js-vacancy-snippet js-clickable" data-listing='{"id":"1ef0f4c0-3e57-66b8-8f22-8af1c4c40536","ppos":1,"pos":1,"pg":1,"sq":1,"e":0,"sp":2,"type":"vacancy","vacancy":{"fr":0,"p":"jobrapido.com"}}' data-id="30941911702" data-href="https://in.jobsora.com/job-30941911702?source=1" data-target="_blank">    <header class="c-job-item__header">
-                    <div class="c-job-item__control">
+                <div class="site-navbar-wrap">
+                    <div class="site-navbar site-navbar-target d-flex align-items-center">
+                        <div class="align-items-center">
+                            <nav class="site-navigation text-center" role="navigation">
+                                <div class="d-lg-none ml-md-0 mr-auto"><a href="#" class="site-menu-toggle js-menu-toggle text-white d-block"><span class="icon-menu h3 d-block mb-0"><img height="28" src="https://www.iplt20.com/assets/images/new-menu.svg" alt=""></span></a></div>
+                                <ul class="site-menu main-menu js-clone-nav d-none d-lg-block textCenter">
+                                
+                                                                                                    <li class="  has-children">
                                     
-<span class="c-link js-bookmark" data-vacancy-id="30941911702" data-layout="listing">    <svg class="c-ico-svg c-ico-svg--md c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M17,18L12,15.82L7,18V5H17M17,3H7A2,2 0 0,0 5,5V21L12,18L19,21V5C19,3.89 18.1,3 17,3Z" fill="currentColor"></path></svg></span>                
-                                    <span class="c-link js-hide-btn" type="button">
-                        <svg class="c-ico-svg c-ico-svg--md c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M20.4,5.3l-1.7-1.7L12,10.3L5.3,3.6L3.6,5.3l6.7,6.7l-6.7,6.7l1.7,1.7l6.7-6.7l6.7,6.7l1.7-1.7L13.7,12L20.4,5.3z" fill="currentColor"></path></svg>                    </span>
-                
-                
-            </div>        
-        
-        <h2 class="c-job-item__title">
-            <a class="u-text-double-line" href="https://in.jobsora.com/job-30941911702?source=1" rel="nofollow" target="_blank">Customer Care Executive</a>        </h2>
-    </header>
-    <table class="c-table-fixed">
-        <tr>
-            <td class="c-table-fixed__content">
-                <div class="c-job-item__info">                                            <div class="c-job-item__info-item">
-                            <svg class="c-ico-svg c-ico-svg--sm c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M16.7,15h-2v2h2 M16.7,11h-2v2h2 M18.7,19h-5.5V9h5.5 M11.3,7h-2V5h2 M11.3,11h-2V9h2 M11.3,15h-2v-2h2   M11.3,19h-2v-2h2 M7.3,7h-2V5h2 M7.3,11h-2V9h2 M7.3,15h-2v-2h2 M7.3,19h-2v-2h2 M13.2,7V3h-10v18h17.5V7H13.2z" fill="currentColor"></path></svg><a href="https://in.jobsora.com/jobs-company-paradise-placement-consultancy-indore" target="_blank">Paradise Placement Consultancy</a>                        </div>
-                    
-                                            <div class="c-job-item__info-item">
-                            <svg class="c-ico-svg c-ico-svg--sm c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M12,6.5A2.5,2.5 0 0,1 14.5,9A2.5,2.5 0 0,1 12,11.5A2.5,2.5 0 0,1 9.5,9A2.5,2.5 0 0,1 12,6.5M12,2A7,7 0 0,1 19,9C19,14.25 12,22 12,22C12,22 5,14.25 5,9A7,7 0 0,1 12,2M12,4A5,5 0 0,0 7,9C7,10 7,12 12,18.71C17,12 17,10 17,9A5,5 0 0,0 12,4Z" fill="currentColor"></path></svg>Indore                        </div>
-                                    </div>                                    <p class="c-job-item__description u-text-double-line">
-                        Job Description:
 
-Immediate hiring for Customer Care Executive Voice Process (M/F)
-
-Location: Indore
-
-Education: Any 12th Pass, Undergraduate or Graduate
-
-Salary:  1.20 LPA to 2.0 LPA
-
-Key Skills:
-
-Excellent English Speakers Basic Computer skills Should know call etiquettes Good listening skills Ability to handle pressure and resolve customer queries
-
-Immediate joiners preferred
-
-Key Skills...                    </p>
-                            </td>
-            <td class="c-table-fixed__btn">
-                <span class="c-job-item__btn">View salary & More Info</span>
-            </td>
-        </tr>
-        <tr>
-            <td class="c-table-fixed__bottom" colspan="2">
-                <div class="grid-common grid-common--nowrap grid-common--gap-sm">
-                    <div class="grid-common__col">
-                        <div class="c-job-item__date">
-                            41 minutes ago                        </div>
-                    </div>
-
-                                    </div>
-            </td>
-        </tr>
-    </table>
-</article>
-        
-    
-    
-<article class="js-listing-item c-job-item w-gap-lg js-vacancy-snippet js-clickable" data-listing='{"id":"1ef0f4c0-3e57-66b8-8f22-8af1c4c40536","ppos":2,"pos":2,"pg":1,"sq":1,"e":0,"sp":2,"type":"vacancy","vacancy":{"fr":0,"p":"jobrapido.com"}}' data-id="30942039993" data-href="https://in.jobsora.com/job-30942039993?source=1" data-target="_blank">    <header class="c-job-item__header">
-                    <div class="c-job-item__control">
                                     
-<span class="c-link js-bookmark" data-vacancy-id="30942039993" data-layout="listing">    <svg class="c-ico-svg c-ico-svg--md c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M17,18L12,15.82L7,18V5H17M17,3H7A2,2 0 0,0 5,5V21L12,18L19,21V5C19,3.89 18.1,3 17,3Z" fill="currentColor"></path></svg></span>                
-                                    <span class="c-link js-hide-btn" type="button">
-                        <svg class="c-ico-svg c-ico-svg--md c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M20.4,5.3l-1.7-1.7L12,10.3L5.3,3.6L3.6,5.3l6.7,6.7l-6.7,6.7l1.7,1.7l6.7-6.7l6.7,6.7l1.7-1.7L13.7,12L20.4,5.3z" fill="currentColor"></path></svg>                    </span>
-                
-                
-            </div>        
-        
-        <h2 class="c-job-item__title">
-            <a class="u-text-double-line" href="https://in.jobsora.com/job-30942039993?source=1" rel="nofollow" target="_blank">BE/MCA Fresher</a>        </h2>
-    </header>
-    <table class="c-table-fixed">
-        <tr>
-            <td class="c-table-fixed__content">
-                <div class="c-job-item__info">                                            <div class="c-job-item__info-item">
-                            <svg class="c-ico-svg c-ico-svg--sm c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M16.7,15h-2v2h2 M16.7,11h-2v2h2 M18.7,19h-5.5V9h5.5 M11.3,7h-2V5h2 M11.3,11h-2V9h2 M11.3,15h-2v-2h2   M11.3,19h-2v-2h2 M7.3,7h-2V5h2 M7.3,11h-2V9h2 M7.3,15h-2v-2h2 M7.3,19h-2v-2h2 M13.2,7V3h-10v18h17.5V7H13.2z" fill="currentColor"></path></svg><a href="https://in.jobsora.com/jobs-company-ignis-indore" target="_blank">Ignis</a>                        </div>
-                    
-                                            <div class="c-job-item__info-item">
-                            <svg class="c-ico-svg c-ico-svg--sm c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M12,6.5A2.5,2.5 0 0,1 14.5,9A2.5,2.5 0 0,1 12,11.5A2.5,2.5 0 0,1 9.5,9A2.5,2.5 0 0,1 12,6.5M12,2A7,7 0 0,1 19,9C19,14.25 12,22 12,22C12,22 5,14.25 5,9A7,7 0 0,1 12,2M12,4A5,5 0 0,0 7,9C7,10 7,12 12,18.71C17,12 17,10 17,9A5,5 0 0,0 12,4Z" fill="currentColor"></path></svg>Indore                        </div>
-                                    </div>                                    <p class="c-job-item__description u-text-double-line">
-                        Qualification : We are looking for MCA, M Sc (IT, Computer Science), BE (IT, Computer Science) 2012 pass out freshers,
-
-With aggregate of 60% throughout each (10th, 12th, graduation, post graduation)
-
-Skills :
-
-Candidate Must have knowledge of Html, javascript, php or capability to grasp it quickly.
-
-Salary : 20k
-
-Location : Indore(M.P)                    </p>
-                            </td>
-            <td class="c-table-fixed__btn">
-                <span class="c-job-item__btn">View salary & More Info</span>
-            </td>
-        </tr>
-        <tr>
-            <td class="c-table-fixed__bottom" colspan="2">
-                <div class="grid-common grid-common--nowrap grid-common--gap-sm">
-                    <div class="grid-common__col">
-                        <div class="c-job-item__date">
-                            39 minutes ago                        </div>
-                    </div>
-
-                                    </div>
-            </td>
-        </tr>
-    </table>
-</article>
-        
-    
-    
-<article class="js-listing-item c-job-item w-gap-lg js-vacancy-snippet js-clickable" data-listing='{"id":"1ef0f4c0-3e57-66b8-8f22-8af1c4c40536","ppos":3,"pos":3,"pg":1,"sq":1,"e":0,"sp":2,"type":"vacancy","vacancy":{"fr":0,"p":"jobrapido.com"}}' data-id="30941963742" data-href="https://in.jobsora.com/job-30941963742?source=1" data-target="_blank">    <header class="c-job-item__header">
-                    <div class="c-job-item__control">
                                     
-<span class="c-link js-bookmark" data-vacancy-id="30941963742" data-layout="listing">    <svg class="c-ico-svg c-ico-svg--md c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M17,18L12,15.82L7,18V5H17M17,3H7A2,2 0 0,0 5,5V21L12,18L19,21V5C19,3.89 18.1,3 17,3Z" fill="currentColor"></path></svg></span>                
-                                    <span class="c-link js-hide-btn" type="button">
-                        <svg class="c-ico-svg c-ico-svg--md c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M20.4,5.3l-1.7-1.7L12,10.3L5.3,3.6L3.6,5.3l6.7,6.7l-6.7,6.7l1.7,1.7l6.7-6.7l6.7,6.7l1.7-1.7L13.7,12L20.4,5.3z" fill="currentColor"></path></svg>                    </span>
-                
-                
-            </div>        
-        
-        <h2 class="c-job-item__title">
-            <a class="u-text-double-line" href="https://in.jobsora.com/job-30941963742?source=1" rel="nofollow" target="_blank">MNC BPO Customer Support Voice BPO (Non Voice/Chat Process)</a>        </h2>
-    </header>
-    <table class="c-table-fixed">
-        <tr>
-            <td class="c-table-fixed__content">
-                <div class="c-job-item__info">                                            <div class="c-job-item__info-item">
-                            <svg class="c-ico-svg c-ico-svg--sm c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M16.7,15h-2v2h2 M16.7,11h-2v2h2 M18.7,19h-5.5V9h5.5 M11.3,7h-2V5h2 M11.3,11h-2V9h2 M11.3,15h-2v-2h2   M11.3,19h-2v-2h2 M7.3,7h-2V5h2 M7.3,11h-2V9h2 M7.3,15h-2v-2h2 M7.3,19h-2v-2h2 M13.2,7V3h-10v18h17.5V7H13.2z" fill="currentColor"></path></svg>Fortuco Resource Solutions Private Limited                        </div>
-                    
-                                            <div class="c-job-item__info-item">
-                            <svg class="c-ico-svg c-ico-svg--sm c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M12,6.5A2.5,2.5 0 0,1 14.5,9A2.5,2.5 0 0,1 12,11.5A2.5,2.5 0 0,1 9.5,9A2.5,2.5 0 0,1 12,6.5M12,2A7,7 0 0,1 19,9C19,14.25 12,22 12,22C12,22 5,14.25 5,9A7,7 0 0,1 12,2M12,4A5,5 0 0,0 7,9C7,10 7,12 12,18.71C17,12 17,10 17,9A5,5 0 0,0 12,4Z" fill="currentColor"></path></svg>Indore                        </div>
-                                    </div>                                    <p class="c-job-item__description u-text-double-line">
-                        Urgent Hiring Customer Support Executive International &amp; Domestic Job Location Banglore / Hyderabad / Delhi / Mohali / Jaipur Rajasthan / Indore Candidates Can apply From Pan India
-Language : Fluent English
-Job Location : Bengaluru / Hyderabad and Jaipur Rajasthan / Mohali Punjab / Indore Madhya pradesh / Delhi NCR
-Desired Candidate Profile
-* Any 12th pass out/ Undergraduate or Graduate / post...                    </p>
-                            </td>
-            <td class="c-table-fixed__btn">
-                <span class="c-job-item__btn">View salary & More Info</span>
-            </td>
-        </tr>
-        <tr>
-            <td class="c-table-fixed__bottom" colspan="2">
-                <div class="grid-common grid-common--nowrap grid-common--gap-sm">
-                    <div class="grid-common__col">
-                        <div class="c-job-item__date">
-                            6 hours ago                        </div>
-                    </div>
-
-                                    </div>
-            </td>
-        </tr>
-    </table>
-</article>
-        
-    
-    
-<article class="js-listing-item c-job-item w-gap-lg js-vacancy-snippet js-clickable" data-listing='{"id":"1ef0f4c0-3e57-66b8-8f22-8af1c4c40536","ppos":4,"pos":4,"pg":1,"sq":1,"e":0,"sp":2,"type":"vacancy","vacancy":{"fr":0,"p":"talent.com"}}' data-id="30767469332" data-href="https://in.jobsora.com/job-30767469332?source=1" data-target="_blank">    <header class="c-job-item__header">
-                    <div class="c-job-item__control">
+                                                                         <a onclick="click_menu(this)" data-event_context="header" data-element_text="MATCHES" href="https://www.iplt20.com/matches/fixtures" data-slug="matches/fixtures">MATCHES</a>
+                                     
+                                                                            </li>
+                                                                                                        <li class="  has-children">
                                     
-<span class="c-link js-bookmark" data-vacancy-id="30767469332" data-layout="listing">    <svg class="c-ico-svg c-ico-svg--md c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M17,18L12,15.82L7,18V5H17M17,3H7A2,2 0 0,0 5,5V21L12,18L19,21V5C19,3.89 18.1,3 17,3Z" fill="currentColor"></path></svg></span>                
-                                    <span class="c-link js-hide-btn" type="button">
-                        <svg class="c-ico-svg c-ico-svg--md c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M20.4,5.3l-1.7-1.7L12,10.3L5.3,3.6L3.6,5.3l6.7,6.7l-6.7,6.7l1.7,1.7l6.7-6.7l6.7,6.7l1.7-1.7L13.7,12L20.4,5.3z" fill="currentColor"></path></svg>                    </span>
-                
-                
-            </div>        
-        
-        <h2 class="c-job-item__title">
-            <a class="u-text-double-line" href="https://in.jobsora.com/job-30767469332?source=1" rel="nofollow" target="_blank">Key Account Management Associate</a>        </h2>
-    </header>
-    <table class="c-table-fixed">
-        <tr>
-            <td class="c-table-fixed__content">
-                <div class="c-job-item__info">                                            <div class="c-job-item__info-item">
-                            <svg class="c-ico-svg c-ico-svg--sm c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M16.7,15h-2v2h2 M16.7,11h-2v2h2 M18.7,19h-5.5V9h5.5 M11.3,7h-2V5h2 M11.3,11h-2V9h2 M11.3,15h-2v-2h2   M11.3,19h-2v-2h2 M7.3,7h-2V5h2 M7.3,11h-2V9h2 M7.3,15h-2v-2h2 M7.3,19h-2v-2h2 M13.2,7V3h-10v18h17.5V7H13.2z" fill="currentColor"></path></svg>Supersourcing                        </div>
-                    
-                                            <div class="c-job-item__info-item">
-                            <svg class="c-ico-svg c-ico-svg--sm c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M12,6.5A2.5,2.5 0 0,1 14.5,9A2.5,2.5 0 0,1 12,11.5A2.5,2.5 0 0,1 9.5,9A2.5,2.5 0 0,1 12,6.5M12,2A7,7 0 0,1 19,9C19,14.25 12,22 12,22C12,22 5,14.25 5,9A7,7 0 0,1 12,2M12,4A5,5 0 0,0 7,9C7,10 7,12 12,18.71C17,12 17,10 17,9A5,5 0 0,0 12,4Z" fill="currentColor"></path></svg>Indore                        </div>
-                                    </div>                                    <p class="c-job-item__description u-text-double-line">
-                        Responsibilities:
 
-● Maintain the client activity with the assistance of AM
-
-● Maintain good relations with engineers
-
-● Pass the client feedback down the line with the engineers/vendors
-
-● Leave &amp; attendance management
-
-● Keep track of daily task updates from team members
-
-● Share updates on contract renewal or closure to Ops Team
-
-● Share developer onboarding/Offboarding email
-
-● Take charge of...                    </p>
-                            </td>
-            <td class="c-table-fixed__btn">
-                <span class="c-job-item__btn">View salary & More Info</span>
-            </td>
-        </tr>
-        <tr>
-            <td class="c-table-fixed__bottom" colspan="2">
-                <div class="grid-common grid-common--nowrap grid-common--gap-sm">
-                    <div class="grid-common__col">
-                        <div class="c-job-item__date">
-                            an hour ago                        </div>
-                    </div>
-
-                                    </div>
-            </td>
-        </tr>
-    </table>
-</article>
-        
-    
-    
-<article class="js-listing-item c-job-item w-gap-lg js-vacancy-snippet js-clickable" data-listing='{"id":"1ef0f4c0-3e57-66b8-8f22-8af1c4c40536","ppos":5,"pos":5,"pg":1,"sq":1,"e":0,"sp":2,"type":"vacancy","vacancy":{"fr":0,"p":"jobrapido.com"}}' data-id="30942040177" data-href="https://in.jobsora.com/job-30942040177?source=1" data-target="_blank">    <header class="c-job-item__header">
-                    <div class="c-job-item__control">
                                     
-<span class="c-link js-bookmark" data-vacancy-id="30942040177" data-layout="listing">    <svg class="c-ico-svg c-ico-svg--md c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M17,18L12,15.82L7,18V5H17M17,3H7A2,2 0 0,0 5,5V21L12,18L19,21V5C19,3.89 18.1,3 17,3Z" fill="currentColor"></path></svg></span>                
-                                    <span class="c-link js-hide-btn" type="button">
-                        <svg class="c-ico-svg c-ico-svg--md c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M20.4,5.3l-1.7-1.7L12,10.3L5.3,3.6L3.6,5.3l6.7,6.7l-6.7,6.7l1.7,1.7l6.7-6.7l6.7,6.7l1.7-1.7L13.7,12L20.4,5.3z" fill="currentColor"></path></svg>                    </span>
-                
-                
-            </div>        
-        
-        <h2 class="c-job-item__title">
-            <a class="u-text-double-line" href="https://in.jobsora.com/job-30942040177?source=1" rel="nofollow" target="_blank">Net developer</a>        </h2>
-    </header>
-    <table class="c-table-fixed">
-        <tr>
-            <td class="c-table-fixed__content">
-                <div class="c-job-item__info">                                            <div class="c-job-item__info-item">
-                            <svg class="c-ico-svg c-ico-svg--sm c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M16.7,15h-2v2h2 M16.7,11h-2v2h2 M18.7,19h-5.5V9h5.5 M11.3,7h-2V5h2 M11.3,11h-2V9h2 M11.3,15h-2v-2h2   M11.3,19h-2v-2h2 M7.3,7h-2V5h2 M7.3,11h-2V9h2 M7.3,15h-2v-2h2 M7.3,19h-2v-2h2 M13.2,7V3h-10v18h17.5V7H13.2z" fill="currentColor"></path></svg>Bellurbis Technologies                        </div>
-                    
-                                            <div class="c-job-item__info-item">
-                            <svg class="c-ico-svg c-ico-svg--sm c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M12,6.5A2.5,2.5 0 0,1 14.5,9A2.5,2.5 0 0,1 12,11.5A2.5,2.5 0 0,1 9.5,9A2.5,2.5 0 0,1 12,6.5M12,2A7,7 0 0,1 19,9C19,14.25 12,22 12,22C12,22 5,14.25 5,9A7,7 0 0,1 12,2M12,4A5,5 0 0,0 7,9C7,10 7,12 12,18.71C17,12 17,10 17,9A5,5 0 0,0 12,4Z" fill="currentColor"></path></svg>Indore                        </div>
-                                    </div>                                    <p class="c-job-item__description u-text-double-line">
-                        Job Description About the company:
-At Bellurbis, we have a core belief that healthcare should be simple, accessible and efficient for everyone. We&#039;ve been disrupting the healthcare industry by developing innovative solutions to bridge gaps in the healthcare ecosystem. We integrate digital platforms to empower users to take charge of their health. Headquartered in Austin, Texas, we have regional...                    </p>
-                            </td>
-            <td class="c-table-fixed__btn">
-                <span class="c-job-item__btn">View salary & More Info</span>
-            </td>
-        </tr>
-        <tr>
-            <td class="c-table-fixed__bottom" colspan="2">
-                <div class="grid-common grid-common--nowrap grid-common--gap-sm">
-                    <div class="grid-common__col">
-                        <div class="c-job-item__date">
-                            40 minutes ago                        </div>
-                    </div>
-
-                                    </div>
-            </td>
-        </tr>
-    </table>
-</article>
-        
-    
-    
-<article class="js-listing-item c-job-item w-gap-lg js-vacancy-snippet js-clickable" data-listing='{"id":"1ef0f4c0-3e57-66b8-8f22-8af1c4c40536","ppos":6,"pos":6,"pg":1,"sq":1,"e":0,"sp":2,"type":"vacancy","vacancy":{"fr":0,"p":"jobrapido.com"}}' data-id="30942001004" data-href="https://in.jobsora.com/job-30942001004?source=1" data-target="_blank">    <header class="c-job-item__header">
-                    <div class="c-job-item__control">
                                     
-<span class="c-link js-bookmark" data-vacancy-id="30942001004" data-layout="listing">    <svg class="c-ico-svg c-ico-svg--md c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M17,18L12,15.82L7,18V5H17M17,3H7A2,2 0 0,0 5,5V21L12,18L19,21V5C19,3.89 18.1,3 17,3Z" fill="currentColor"></path></svg></span>                
-                                    <span class="c-link js-hide-btn" type="button">
-                        <svg class="c-ico-svg c-ico-svg--md c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M20.4,5.3l-1.7-1.7L12,10.3L5.3,3.6L3.6,5.3l6.7,6.7l-6.7,6.7l1.7,1.7l6.7-6.7l6.7,6.7l1.7-1.7L13.7,12L20.4,5.3z" fill="currentColor"></path></svg>                    </span>
-                
-                
-            </div>        
-        
-        <h2 class="c-job-item__title">
-            <a class="u-text-double-line" href="https://in.jobsora.com/job-30942001004?source=1" rel="nofollow" target="_blank">Senior Software Engg - Dot Net Full Stack Job</a>        </h2>
-    </header>
-    <table class="c-table-fixed">
-        <tr>
-            <td class="c-table-fixed__content">
-                <div class="c-job-item__info">                                            <div class="c-job-item__info-item">
-                            <svg class="c-ico-svg c-ico-svg--sm c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M16.7,15h-2v2h2 M16.7,11h-2v2h2 M18.7,19h-5.5V9h5.5 M11.3,7h-2V5h2 M11.3,11h-2V9h2 M11.3,15h-2v-2h2   M11.3,19h-2v-2h2 M7.3,7h-2V5h2 M7.3,11h-2V9h2 M7.3,15h-2v-2h2 M7.3,19h-2v-2h2 M13.2,7V3h-10v18h17.5V7H13.2z" fill="currentColor"></path></svg><a href="https://in.jobsora.com/jobs-company-yash-technologies-indore" target="_blank">Yash Technologies</a>                        </div>
-                    
-                                            <div class="c-job-item__info-item">
-                            <svg class="c-ico-svg c-ico-svg--sm c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M12,6.5A2.5,2.5 0 0,1 14.5,9A2.5,2.5 0 0,1 12,11.5A2.5,2.5 0 0,1 9.5,9A2.5,2.5 0 0,1 12,6.5M12,2A7,7 0 0,1 19,9C19,14.25 12,22 12,22C12,22 5,14.25 5,9A7,7 0 0,1 12,2M12,4A5,5 0 0,0 7,9C7,10 7,12 12,18.71C17,12 17,10 17,9A5,5 0 0,0 12,4Z" fill="currentColor"></path></svg>Indore                        </div>
-                                    </div>                                    <p class="c-job-item__description u-text-double-line">
-                        YASH Technologies is a leading technology integrator specializing in helping clients reimagine operating models, enhance competitiveness, optimize costs, foster exceptional stakeholder experiences, and drive business transformation.
-
-At YASH, we’re a cluster of the brightest stars working with cutting-edge technologies. Our purpose is anchored in a single truth – bringing real positive changes in...                    </p>
-                            </td>
-            <td class="c-table-fixed__btn">
-                <span class="c-job-item__btn">View salary & More Info</span>
-            </td>
-        </tr>
-        <tr>
-            <td class="c-table-fixed__bottom" colspan="2">
-                <div class="grid-common grid-common--nowrap grid-common--gap-sm">
-                    <div class="grid-common__col">
-                        <div class="c-job-item__date">
-                            41 minutes ago                        </div>
-                    </div>
-
-                                    </div>
-            </td>
-        </tr>
-    </table>
-</article>
-        
-    
-    
-<article class="js-listing-item c-job-item w-gap-lg js-vacancy-snippet js-clickable" data-listing='{"id":"1ef0f4c0-3e57-66b8-8f22-8af1c4c40536","ppos":7,"pos":7,"pg":1,"sq":1,"e":0,"sp":2,"type":"vacancy","vacancy":{"fr":0,"p":"jobrapido.com"}}' data-id="30942017832" data-href="https://in.jobsora.com/job-30942017832?source=1" data-target="_blank">    <header class="c-job-item__header">
-                    <div class="c-job-item__control">
+                                                                         <a onclick="click_menu(this)" data-event_context="header" data-element_text="VIDEOS" href="javascript:void(0)" data-slug="videos">VIDEOS</a>
+                                     
+                                                                                <ul class="dropdown arrow-top">
+                                                                                
+                                        
+                                            <li class=" videos/all sub_menu">
+                                                <a onclick="click_menu(this)" data-event_context="header" data-element_text="LATEST" href="https://www.iplt20.com/videos/all" data-url="videos/all" data-slug="videos/all">LATEST</a>
+                                            </li>
+                                                                                    
+                                        
+                                            <li class=" videos/ipl-exclusive sub_menu">
+                                                <a onclick="click_menu(this)" data-event_context="header" data-element_text="IPL EXCLUSIVE" href="https://www.iplt20.com/videos/ipl-exclusive" data-url="videos/ipl-exclusive" data-slug="videos/ipl-exclusive">IPL EXCLUSIVE</a>
+                                            </li>
+                                                                                    
+                                        
+                                            <li class=" videos/highlights sub_menu">
+                                                <a onclick="click_menu(this)" data-event_context="header" data-element_text="HIGHLIGHTS" href="https://www.iplt20.com/videos/highlights" data-url="videos/highlights" data-slug="videos/highlights">HIGHLIGHTS</a>
+                                            </li>
+                                                                                    
+                                        
+                                            <li class=" videos/ipl-magic sub_menu">
+                                                <a onclick="click_menu(this)" data-event_context="header" data-element_text="MAGIC MOMENTS" href="https://www.iplt20.com/videos/ipl-magic" data-url="videos/ipl-magic" data-slug="videos/ipl-magic">MAGIC MOMENTS</a>
+                                            </li>
+                                                                                    
+                                        
+                                            <li class=" videos/interviews sub_menu">
+                                                <a onclick="click_menu(this)" data-event_context="header" data-element_text="INTERVIEWS" href="https://www.iplt20.com/videos/interviews" data-url="videos/interviews" data-slug="videos/interviews">INTERVIEWS</a>
+                                            </li>
+                                                                                    
+                                        
+                                            <li class=" videos/press-conference sub_menu">
+                                                <a onclick="click_menu(this)" data-event_context="header" data-element_text="PRESS CONFERENCES" href="https://www.iplt20.com/videos/press-conference" data-url="videos/press-conference" data-slug="videos/press-conference">PRESS CONFERENCES</a>
+                                            </li>
+                                                                                    
+                                        
+                                            <li class=" videos sub_menu">
+                                                <a onclick="click_menu(this)" data-event_context="header" data-element_text="ALL" href="https://www.iplt20.com/videos" data-url="videos" data-slug="videos">ALL</a>
+                                            </li>
+                                                                                    </ul>
+                                                                            </li>
+                                                                                                        <li class="active  has-children">
                                     
-<span class="c-link js-bookmark" data-vacancy-id="30942017832" data-layout="listing">    <svg class="c-ico-svg c-ico-svg--md c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M17,18L12,15.82L7,18V5H17M17,3H7A2,2 0 0,0 5,5V21L12,18L19,21V5C19,3.89 18.1,3 17,3Z" fill="currentColor"></path></svg></span>                
-                                    <span class="c-link js-hide-btn" type="button">
-                        <svg class="c-ico-svg c-ico-svg--md c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M20.4,5.3l-1.7-1.7L12,10.3L5.3,3.6L3.6,5.3l6.7,6.7l-6.7,6.7l1.7,1.7l6.7-6.7l6.7,6.7l1.7-1.7L13.7,12L20.4,5.3z" fill="currentColor"></path></svg>                    </span>
-                
-                
-            </div>        
-        
-        <h2 class="c-job-item__title">
-            <a class="u-text-double-line" href="https://in.jobsora.com/job-30942017832?source=1" rel="nofollow" target="_blank">customer care executive + Hirgin now!</a>        </h2>
-    </header>
-    <table class="c-table-fixed">
-        <tr>
-            <td class="c-table-fixed__content">
-                <div class="c-job-item__info">                                            <div class="c-job-item__info-item">
-                            <svg class="c-ico-svg c-ico-svg--sm c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M16.7,15h-2v2h2 M16.7,11h-2v2h2 M18.7,19h-5.5V9h5.5 M11.3,7h-2V5h2 M11.3,11h-2V9h2 M11.3,15h-2v-2h2   M11.3,19h-2v-2h2 M7.3,7h-2V5h2 M7.3,11h-2V9h2 M7.3,15h-2v-2h2 M7.3,19h-2v-2h2 M13.2,7V3h-10v18h17.5V7H13.2z" fill="currentColor"></path></svg>Conneqt Business Solution                        </div>
-                    
-                                            <div class="c-job-item__info-item">
-                            <svg class="c-ico-svg c-ico-svg--sm c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M12,6.5A2.5,2.5 0 0,1 14.5,9A2.5,2.5 0 0,1 12,11.5A2.5,2.5 0 0,1 9.5,9A2.5,2.5 0 0,1 12,6.5M12,2A7,7 0 0,1 19,9C19,14.25 12,22 12,22C12,22 5,14.25 5,9A7,7 0 0,1 12,2M12,4A5,5 0 0,0 7,9C7,10 7,12 12,18.71C17,12 17,10 17,9A5,5 0 0,0 12,4Z" fill="currentColor"></path></svg>Indore                        </div>
-                                    </div>                                    <p class="c-job-item__description u-text-double-line">
-                        customer care executive + Hirgin now! industry
 
-International Inbound outbound &amp; Voice process
-
-Customer Service Responsibilities
-
-· Resolving customer complaints brought to your attention.
-
-· Manage large amounts of incoming &amp; Outbound phone calls
-
-· Identify and assess customers’ needs to achieve satisfaction
-
-· Build sustainable relationships and trust with customer accounts through open and...                    </p>
-                            </td>
-            <td class="c-table-fixed__btn">
-                <span class="c-job-item__btn">View salary & More Info</span>
-            </td>
-        </tr>
-        <tr>
-            <td class="c-table-fixed__bottom" colspan="2">
-                <div class="grid-common grid-common--nowrap grid-common--gap-sm">
-                    <div class="grid-common__col">
-                        <div class="c-job-item__date">
-                            40 minutes ago                        </div>
-                    </div>
-
-                                    </div>
-            </td>
-        </tr>
-    </table>
-</article>
-        
-    
-    
-<article class="js-listing-item c-job-item w-gap-lg js-vacancy-snippet js-clickable" data-listing='{"id":"1ef0f4c0-3e57-66b8-8f22-8af1c4c40536","ppos":8,"pos":8,"pg":1,"sq":1,"e":0,"sp":2,"type":"vacancy","vacancy":{"fr":0,"p":"alllocaljobs.com"}}' data-id="30164365918" data-href="https://in.jobsora.com/job-30164365918?source=1" data-target="_blank">    <header class="c-job-item__header">
-                    <div class="c-job-item__control">
                                     
-<span class="c-link js-bookmark" data-vacancy-id="30164365918" data-layout="listing">    <svg class="c-ico-svg c-ico-svg--md c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M17,18L12,15.82L7,18V5H17M17,3H7A2,2 0 0,0 5,5V21L12,18L19,21V5C19,3.89 18.1,3 17,3Z" fill="currentColor"></path></svg></span>                
-                                    <span class="c-link js-hide-btn" type="button">
-                        <svg class="c-ico-svg c-ico-svg--md c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M20.4,5.3l-1.7-1.7L12,10.3L5.3,3.6L3.6,5.3l6.7,6.7l-6.7,6.7l1.7,1.7l6.7-6.7l6.7,6.7l1.7-1.7L13.7,12L20.4,5.3z" fill="currentColor"></path></svg>                    </span>
-                
-                
-            </div>        
-        
-        <h2 class="c-job-item__title">
-            <a class="u-text-double-line" href="https://in.jobsora.com/job-30164365918?source=1" rel="nofollow" target="_blank">Relationship Manager - Bancassurance IBL - Apply</a>        </h2>
-    </header>
-    <table class="c-table-fixed">
-        <tr>
-            <td class="c-table-fixed__content">
-                <div class="c-job-item__info">                                            <div class="c-job-item__info-item">
-                            <svg class="c-ico-svg c-ico-svg--sm c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M16.7,15h-2v2h2 M16.7,11h-2v2h2 M18.7,19h-5.5V9h5.5 M11.3,7h-2V5h2 M11.3,11h-2V9h2 M11.3,15h-2v-2h2   M11.3,19h-2v-2h2 M7.3,7h-2V5h2 M7.3,11h-2V9h2 M7.3,15h-2v-2h2 M7.3,19h-2v-2h2 M13.2,7V3h-10v18h17.5V7H13.2z" fill="currentColor"></path></svg>Tata AIA Life Insurance                        </div>
-                    
-                                            <div class="c-job-item__info-item">
-                            <svg class="c-ico-svg c-ico-svg--sm c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M12,6.5A2.5,2.5 0 0,1 14.5,9A2.5,2.5 0 0,1 12,11.5A2.5,2.5 0 0,1 9.5,9A2.5,2.5 0 0,1 12,6.5M12,2A7,7 0 0,1 19,9C19,14.25 12,22 12,22C12,22 5,14.25 5,9A7,7 0 0,1 12,2M12,4A5,5 0 0,0 7,9C7,10 7,12 12,18.71C17,12 17,10 17,9A5,5 0 0,0 12,4Z" fill="currentColor"></path></svg>Indore                        </div>
-                                    </div>                                    <p class="c-job-item__description u-text-double-line">
-                        A Position Overview
-
-Position Title
-
-Training Manager / Capability Development Manager
-
-Department
-
-Agency Sales training
-
-Level/ Band
-
-301/401
-
-Role Summary : Conducts training as per the defined levels for the assigned channel.manages and develops assigned trainers and TOs and manages and executes training schedules for the location.
-
-B Organizational Relationships
-
-Reports To
-
-Cluster Training...                    </p>
-                            </td>
-            <td class="c-table-fixed__btn">
-                <span class="c-job-item__btn">View salary & More Info</span>
-            </td>
-        </tr>
-        <tr>
-            <td class="c-table-fixed__bottom" colspan="2">
-                <div class="grid-common grid-common--nowrap grid-common--gap-sm">
-                    <div class="grid-common__col">
-                        <div class="c-job-item__date">
-                            an hour ago                        </div>
-                    </div>
-
-                                    </div>
-            </td>
-        </tr>
-    </table>
-</article>
-        
-    
-    
-<article class="js-listing-item c-job-item w-gap-lg js-vacancy-snippet js-clickable" data-listing='{"id":"1ef0f4c0-3e57-66b8-8f22-8af1c4c40536","ppos":9,"pos":9,"pg":1,"sq":1,"e":0,"sp":2,"type":"vacancy","vacancy":{"fr":0,"p":"alllocaljobs.com"}}' data-id="30769779681" data-href="https://in.jobsora.com/job-30769779681?source=1" data-target="_blank">    <header class="c-job-item__header">
-                    <div class="c-job-item__control">
                                     
-<span class="c-link js-bookmark" data-vacancy-id="30769779681" data-layout="listing">    <svg class="c-ico-svg c-ico-svg--md c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M17,18L12,15.82L7,18V5H17M17,3H7A2,2 0 0,0 5,5V21L12,18L19,21V5C19,3.89 18.1,3 17,3Z" fill="currentColor"></path></svg></span>                
-                                    <span class="c-link js-hide-btn" type="button">
-                        <svg class="c-ico-svg c-ico-svg--md c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M20.4,5.3l-1.7-1.7L12,10.3L5.3,3.6L3.6,5.3l6.7,6.7l-6.7,6.7l1.7,1.7l6.7-6.7l6.7,6.7l1.7-1.7L13.7,12L20.4,5.3z" fill="currentColor"></path></svg>                    </span>
-                
-                
-            </div>        
-        
-        <h2 class="c-job-item__title">
-            <a class="u-text-double-line" href="https://in.jobsora.com/job-30769779681?source=1" rel="nofollow" target="_blank">Key Account Management Associate - Apply</a>        </h2>
-    </header>
-    <table class="c-table-fixed">
-        <tr>
-            <td class="c-table-fixed__content">
-                <div class="c-job-item__info">                                            <div class="c-job-item__info-item">
-                            <svg class="c-ico-svg c-ico-svg--sm c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M16.7,15h-2v2h2 M16.7,11h-2v2h2 M18.7,19h-5.5V9h5.5 M11.3,7h-2V5h2 M11.3,11h-2V9h2 M11.3,15h-2v-2h2   M11.3,19h-2v-2h2 M7.3,7h-2V5h2 M7.3,11h-2V9h2 M7.3,15h-2v-2h2 M7.3,19h-2v-2h2 M13.2,7V3h-10v18h17.5V7H13.2z" fill="currentColor"></path></svg>Supersourcing                        </div>
-                    
-                                            <div class="c-job-item__info-item">
-                            <svg class="c-ico-svg c-ico-svg--sm c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M12,6.5A2.5,2.5 0 0,1 14.5,9A2.5,2.5 0 0,1 12,11.5A2.5,2.5 0 0,1 9.5,9A2.5,2.5 0 0,1 12,6.5M12,2A7,7 0 0,1 19,9C19,14.25 12,22 12,22C12,22 5,14.25 5,9A7,7 0 0,1 12,2M12,4A5,5 0 0,0 7,9C7,10 7,12 12,18.71C17,12 17,10 17,9A5,5 0 0,0 12,4Z" fill="currentColor"></path></svg>Indore                        </div>
-                                    </div>                                    <p class="c-job-item__description u-text-double-line">
-                        Responsibilities:
-
-● Maintain the client activity with the assistance of AM
-
-● Maintain good relations with engineers
-
-● Pass the client feedback down the line with the engineers/vendors
-
-● Leave &amp; attendance management
-
-● Keep track of daily task updates from team members
-
-● Share updates on contract renewal or closure to Ops Team
-
-● Share developer onboarding/Offboarding email
-
-● Take charge of...                    </p>
-                            </td>
-            <td class="c-table-fixed__btn">
-                <span class="c-job-item__btn">View salary & More Info</span>
-            </td>
-        </tr>
-        <tr>
-            <td class="c-table-fixed__bottom" colspan="2">
-                <div class="grid-common grid-common--nowrap grid-common--gap-sm">
-                    <div class="grid-common__col">
-                        <div class="c-job-item__date">
-                            3 days ago                        </div>
-                    </div>
-
-                                    </div>
-            </td>
-        </tr>
-    </table>
-</article>
-    <span id="results-a2DdSKO_-handler"></span>    
-    
-    
-<article class="js-listing-item c-job-item w-gap-lg js-vacancy-snippet js-clickable" data-listing='{"id":"1ef0f4c0-3e57-66b8-8f22-8af1c4c40536","ppos":10,"pos":10,"pg":1,"sq":1,"e":0,"sp":2,"type":"vacancy","vacancy":{"fr":0,"p":"alllocaljobs.com"}}' data-id="30949738254" data-href="https://in.jobsora.com/job-30949738254?source=1" data-target="_blank">    <header class="c-job-item__header">
-                    <div class="c-job-item__control">
+                                                                         <a onclick="click_menu(this)" data-event_context="header" data-element_text="STATS" href="javascript:void(0)" data-slug="stats/2024">STATS</a>
+                                     
+                                                                                <ul class="dropdown arrow-top">
+                                                                                
+                                        
+                                            <li class=" stats/2024 sub_menu">
+                                                <a onclick="click_menu(this)" data-event_context="header" data-element_text="OVERALL STATS" href="https://www.iplt20.com/stats/2024" data-url="stats/2024" data-slug="stats/2024">OVERALL STATS</a>
+                                            </li>
+                                                                                    
+                                        
+                                            <li class=" comparison sub_menu">
+                                                <a onclick="click_menu(this)" data-event_context="header" data-element_text="HEAD TO HEAD" href="https://www.iplt20.com/comparison" data-url="comparison" data-slug="comparison">HEAD TO HEAD</a>
+                                            </li>
+                                                                                    </ul>
+                                                                            </li>
+                                                                                                        <li class="  has-children">
                                     
-<span class="c-link js-bookmark" data-vacancy-id="30949738254" data-layout="listing">    <svg class="c-ico-svg c-ico-svg--md c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M17,18L12,15.82L7,18V5H17M17,3H7A2,2 0 0,0 5,5V21L12,18L19,21V5C19,3.89 18.1,3 17,3Z" fill="currentColor"></path></svg></span>                
-                                    <span class="c-link js-hide-btn" type="button">
-                        <svg class="c-ico-svg c-ico-svg--md c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M20.4,5.3l-1.7-1.7L12,10.3L5.3,3.6L3.6,5.3l6.7,6.7l-6.7,6.7l1.7,1.7l6.7-6.7l6.7,6.7l1.7-1.7L13.7,12L20.4,5.3z" fill="currentColor"></path></svg>                    </span>
-                
-                
-            </div>        
-        
-        <h2 class="c-job-item__title">
-            <a class="u-text-double-line" href="https://in.jobsora.com/job-30949738254?source=1" rel="nofollow" target="_blank">MNC BPO Customer Support Voice BPO (Non Voice/Chat Process) - Apply</a>        </h2>
-    </header>
-    <table class="c-table-fixed">
-        <tr>
-            <td class="c-table-fixed__content">
-                <div class="c-job-item__info">                                            <div class="c-job-item__info-item">
-                            <svg class="c-ico-svg c-ico-svg--sm c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M16.7,15h-2v2h2 M16.7,11h-2v2h2 M18.7,19h-5.5V9h5.5 M11.3,7h-2V5h2 M11.3,11h-2V9h2 M11.3,15h-2v-2h2   M11.3,19h-2v-2h2 M7.3,7h-2V5h2 M7.3,11h-2V9h2 M7.3,15h-2v-2h2 M7.3,19h-2v-2h2 M13.2,7V3h-10v18h17.5V7H13.2z" fill="currentColor"></path></svg>Fortuco Resource Solutions Private Limited                        </div>
-                    
-                                            <div class="c-job-item__info-item">
-                            <svg class="c-ico-svg c-ico-svg--sm c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M12,6.5A2.5,2.5 0 0,1 14.5,9A2.5,2.5 0 0,1 12,11.5A2.5,2.5 0 0,1 9.5,9A2.5,2.5 0 0,1 12,6.5M12,2A7,7 0 0,1 19,9C19,14.25 12,22 12,22C12,22 5,14.25 5,9A7,7 0 0,1 12,2M12,4A5,5 0 0,0 7,9C7,10 7,12 12,18.71C17,12 17,10 17,9A5,5 0 0,0 12,4Z" fill="currentColor"></path></svg>Indore                        </div>
-                                    </div>                                    <p class="c-job-item__description u-text-double-line">
-                        Urgent Hiring Customer Support Executive International &amp; Domestic Job Location Banglore / Hyderabad / Delhi / Mohali / Jaipur Rajasthan / Indore Candidates Can apply From Pan India
-Language : Fluent English
-Job Location : Bengaluru / Hyderabad and Jaipur Rajasthan / Mohali Punjab / Indore Madhya pradesh / Delhi NCR
-Desired Candidate Profile
-* Any 12th pass out/ Undergraduate or Graduate / post...                    </p>
-                            </td>
-            <td class="c-table-fixed__btn">
-                <span class="c-job-item__btn">View salary & More Info</span>
-            </td>
-        </tr>
-        <tr>
-            <td class="c-table-fixed__bottom" colspan="2">
-                <div class="grid-common grid-common--nowrap grid-common--gap-sm">
-                    <div class="grid-common__col">
-                        <div class="c-job-item__date">
-                            an hour ago                        </div>
-                    </div>
 
-                                    </div>
-            </td>
-        </tr>
-    </table>
-</article>
-        
-    
-    
-<article class="js-listing-item c-job-item w-gap-lg js-vacancy-snippet js-clickable" data-listing='{"id":"1ef0f4c0-3e57-66b8-8f22-8af1c4c40536","ppos":11,"pos":11,"pg":1,"sq":1,"e":0,"sp":2,"type":"vacancy","vacancy":{"fr":0,"p":"recooty.com"}}' data-id="30674776940" data-href="https://in.jobsora.com/job-30674776940?source=1" data-target="_blank">    <header class="c-job-item__header">
-                    <div class="c-job-item__control">
                                     
-<span class="c-link js-bookmark" data-vacancy-id="30674776940" data-layout="listing">    <svg class="c-ico-svg c-ico-svg--md c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M17,18L12,15.82L7,18V5H17M17,3H7A2,2 0 0,0 5,5V21L12,18L19,21V5C19,3.89 18.1,3 17,3Z" fill="currentColor"></path></svg></span>                
-                                    <span class="c-link js-hide-btn" type="button">
-                        <svg class="c-ico-svg c-ico-svg--md c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M20.4,5.3l-1.7-1.7L12,10.3L5.3,3.6L3.6,5.3l6.7,6.7l-6.7,6.7l1.7,1.7l6.7-6.7l6.7,6.7l1.7-1.7L13.7,12L20.4,5.3z" fill="currentColor"></path></svg>                    </span>
-                
-                
-            </div>        
-        
-        <h2 class="c-job-item__title">
-            <a class="u-text-double-line" href="https://in.jobsora.com/job-30674776940?source=1" rel="nofollow" target="_blank">customer care executive</a>        </h2>
-    </header>
-    <table class="c-table-fixed">
-        <tr>
-            <td class="c-table-fixed__content">
-                <div class="c-job-item__info">                                            <div class="c-job-item__info-item">
-                            <svg class="c-ico-svg c-ico-svg--sm c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M16.7,15h-2v2h2 M16.7,11h-2v2h2 M18.7,19h-5.5V9h5.5 M11.3,7h-2V5h2 M11.3,11h-2V9h2 M11.3,15h-2v-2h2   M11.3,19h-2v-2h2 M7.3,7h-2V5h2 M7.3,11h-2V9h2 M7.3,15h-2v-2h2 M7.3,19h-2v-2h2 M13.2,7V3h-10v18h17.5V7H13.2z" fill="currentColor"></path></svg>Conneqt Business Solution                        </div>
-                    
-                                            <div class="c-job-item__info-item">
-                            <svg class="c-ico-svg c-ico-svg--sm c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M12,6.5A2.5,2.5 0 0,1 14.5,9A2.5,2.5 0 0,1 12,11.5A2.5,2.5 0 0,1 9.5,9A2.5,2.5 0 0,1 12,6.5M12,2A7,7 0 0,1 19,9C19,14.25 12,22 12,22C12,22 5,14.25 5,9A7,7 0 0,1 12,2M12,4A5,5 0 0,0 7,9C7,10 7,12 12,18.71C17,12 17,10 17,9A5,5 0 0,0 12,4Z" fill="currentColor"></path></svg>Indore                        </div>
-                                    </div>                                    <p class="c-job-item__description u-text-double-line">
-                        International Inbound outbound &amp; Voice process
-
-Customer Service Responsibilities
-
-· Resolving customer complaints brought to your attention.
-
-· Manage large amounts of incoming &amp; Outbound phone calls
-
-· Identify and assess customers’ needs to achieve satisfaction
-
-· Build sustainable relationships and trust with customer accounts through open and interactive communication...
-
-Customer Support...                    </p>
-                            </td>
-            <td class="c-table-fixed__btn">
-                <span class="c-job-item__btn">View salary & More Info</span>
-            </td>
-        </tr>
-        <tr>
-            <td class="c-table-fixed__bottom" colspan="2">
-                <div class="grid-common grid-common--nowrap grid-common--gap-sm">
-                    <div class="grid-common__col">
-                        <div class="c-job-item__date">
-                            9 hours ago                        </div>
-                    </div>
-
-                                    </div>
-            </td>
-        </tr>
-    </table>
-</article>
-        
-    
-    
-<article class="js-listing-item c-job-item w-gap-lg js-vacancy-snippet js-clickable" data-listing='{"id":"1ef0f4c0-3e57-66b8-8f22-8af1c4c40536","ppos":12,"pos":12,"pg":1,"sq":1,"e":0,"sp":2,"type":"vacancy","vacancy":{"fr":0,"p":"jobrapido.com"}}' data-id="30942026939" data-href="https://in.jobsora.com/job-30942026939?source=1" data-target="_blank">    <header class="c-job-item__header">
-                    <div class="c-job-item__control">
                                     
-<span class="c-link js-bookmark" data-vacancy-id="30942026939" data-layout="listing">    <svg class="c-ico-svg c-ico-svg--md c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M17,18L12,15.82L7,18V5H17M17,3H7A2,2 0 0,0 5,5V21L12,18L19,21V5C19,3.89 18.1,3 17,3Z" fill="currentColor"></path></svg></span>                
-                                    <span class="c-link js-hide-btn" type="button">
-                        <svg class="c-ico-svg c-ico-svg--md c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M20.4,5.3l-1.7-1.7L12,10.3L5.3,3.6L3.6,5.3l6.7,6.7l-6.7,6.7l1.7,1.7l6.7-6.7l6.7,6.7l1.7-1.7L13.7,12L20.4,5.3z" fill="currentColor"></path></svg>                    </span>
-                
-                
-            </div>        
-        
-        <h2 class="c-job-item__title">
-            <a class="u-text-double-line" href="https://in.jobsora.com/job-30942026939?source=1" rel="nofollow" target="_blank">Module Lead - Dot Net Full Stack Job</a>        </h2>
-    </header>
-    <table class="c-table-fixed">
-        <tr>
-            <td class="c-table-fixed__content">
-                <div class="c-job-item__info">                                            <div class="c-job-item__info-item">
-                            <svg class="c-ico-svg c-ico-svg--sm c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M16.7,15h-2v2h2 M16.7,11h-2v2h2 M18.7,19h-5.5V9h5.5 M11.3,7h-2V5h2 M11.3,11h-2V9h2 M11.3,15h-2v-2h2   M11.3,19h-2v-2h2 M7.3,7h-2V5h2 M7.3,11h-2V9h2 M7.3,15h-2v-2h2 M7.3,19h-2v-2h2 M13.2,7V3h-10v18h17.5V7H13.2z" fill="currentColor"></path></svg><a href="https://in.jobsora.com/jobs-company-yash-technologies-indore" target="_blank">Yash Technologies</a>                        </div>
-                    
-                                            <div class="c-job-item__info-item">
-                            <svg class="c-ico-svg c-ico-svg--sm c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M12,6.5A2.5,2.5 0 0,1 14.5,9A2.5,2.5 0 0,1 12,11.5A2.5,2.5 0 0,1 9.5,9A2.5,2.5 0 0,1 12,6.5M12,2A7,7 0 0,1 19,9C19,14.25 12,22 12,22C12,22 5,14.25 5,9A7,7 0 0,1 12,2M12,4A5,5 0 0,0 7,9C7,10 7,12 12,18.71C17,12 17,10 17,9A5,5 0 0,0 12,4Z" fill="currentColor"></path></svg>Indore                        </div>
-                                    </div>                                    <p class="c-job-item__description u-text-double-line">
-                        YASH Technologies is a leading technology integrator specializing in helping clients reimagine operating models, enhance competitiveness, optimize costs, foster exceptional stakeholder experiences, and drive business transformation.
+                                                                         <a onclick="click_menu(this)" data-event_context="header" data-element_text="POINTS TABLE" href="https://www.iplt20.com/points-table/men/2024" data-slug="points-table/men/2024">POINTS TABLE</a>
+                                     
+                                                                            </li>
+                                                                                                        <li class="  has-children">
+                                    
 
-At YASH, we’re a cluster of the brightest stars working with cutting-edge technologies. Our purpose is anchored in a single truth – bringing real positive changes in...                    </p>
-                            </td>
-            <td class="c-table-fixed__btn">
-                <span class="c-job-item__btn">View salary & More Info</span>
-            </td>
-        </tr>
-        <tr>
-            <td class="c-table-fixed__bottom" colspan="2">
-                <div class="grid-common grid-common--nowrap grid-common--gap-sm">
-                    <div class="grid-common__col">
-                        <div class="c-job-item__date">
-                            40 minutes ago                        </div>
+                                    
+                                    
+                                                                         <a onclick="click_menu(this)" data-event_context="header" data-element_text="FANTASY" href="https://fantasy.iplt20.com/classic/home" target="_blank" data-slug="fantasy">FANTASY</a>
+                                     
+                                                                            </li>
+                                                                                                        <li class="  has-children">
+                                    
+
+                                    
+                                    
+                                                                         <a onclick="click_menu(this)" data-event_context="header" data-element_text="NEWS" href="javascript:void(0)" data-slug="news">NEWS</a>
+                                     
+                                                                                <ul class="dropdown arrow-top">
+                                                                                
+                                        
+                                            <li class=" news sub_menu">
+                                                <a onclick="click_menu(this)" data-event_context="header" data-element_text="ALL NEWS" href="https://www.iplt20.com/news" data-url="news" data-slug="news">ALL NEWS</a>
+                                            </li>
+                                                                                    
+                                        
+                                            <li class=" news/announcements sub_menu">
+                                                <a onclick="click_menu(this)" data-event_context="header" data-element_text="ANNOUNCEMENTS" href="https://www.iplt20.com/news/announcements" data-url="news/announcements" data-slug="news/announcements">ANNOUNCEMENTS</a>
+                                            </li>
+                                                                                    
+                                        
+                                            <li class=" news/match-reports sub_menu">
+                                                <a onclick="click_menu(this)" data-event_context="header" data-element_text="MATCH REPORTS" href="https://www.iplt20.com/news/match-reports" data-url="news/match-reports" data-slug="news/match-reports">MATCH REPORTS</a>
+                                            </li>
+                                                                                    </ul>
+                                                                            </li>
+                                                                                                        <li class="  has-children">
+                                    
+
+                                    
+                                    
+                                                                         <a onclick="click_menu(this)" data-event_context="header" data-element_text="MORE" href="javascript:void(0)" data-slug="more">MORE</a>
+                                     
+                                                                                <ul class="dropdown arrow-top">
+                                                                                
+                                        
+                                            <li class=" about/about-us sub_menu">
+                                                <a onclick="click_menu(this)" data-event_context="header" data-element_text="ABOUT" href="https://www.iplt20.com/about/about-us" data-url="about/about-us" data-slug="about/about-us">ABOUT</a>
+                                            </li>
+                                                                                    
+                                        
+                                            <li class=" mobile-products sub_menu">
+                                                <a onclick="click_menu(this)" data-event_context="header" data-element_text="MOBILE PRODUCTS" href="https://www.iplt20.com/mobile-products" data-url="mobile-products" data-slug="mobile-products">MOBILE PRODUCTS</a>
+                                            </li>
+                                                                                    
+                                        
+                                            <li class=" photos sub_menu">
+                                                <a onclick="click_menu(this)" data-event_context="header" data-element_text="PHOTOS" href="https://www.iplt20.com/photos" data-url="photos" data-slug="photos">PHOTOS</a>
+                                            </li>
+                                                                                    
+                                        
+                                            <li class=" venues sub_menu">
+                                                <a onclick="click_menu(this)" data-event_context="header" data-element_text="VENUES" href="https://www.iplt20.com/venues" data-url="venues" data-slug="venues">VENUES</a>
+                                            </li>
+                                                                                    
+                                        
+                                            <li class=" teams sub_menu">
+                                                <a onclick="click_menu(this)" data-event_context="header" data-element_text="TEAMS" href="https://www.iplt20.com/teams" data-url="teams" data-slug="teams">TEAMS</a>
+                                            </li>
+                                                                                    </ul>
+                                                                            </li>
+                                                                                                        <li class="  has-children">
+                                    
+
+                                    
+                                    
+                                                                         <a onclick="click_menu(this)" data-event_context="header" data-element_text="FAN CONTEST" href="https://www.iplt20.com/fan-contests " data-slug="/fan-contests ">FAN CONTEST</a>
+                                     
+                                                                            </li>
+                                                                                                        <li class="  has-children">
+                                    
+
+                                    
+                                    
+                                                                         <a onclick="click_menu(this)" data-event_context="header" data-element_text="TICKETS" href="https://insider.in/ipl-indian-premier-league?utm_source=Online-BCCI-IPL2024&amp;utm_medium=Socials" target="_blank" data-slug="tickets">TICKETS</a>
+                                     
+                                                                            </li>
+                                                                                                        </ul>
+                            </nav>
+                        </div>
                     </div>
+                </div>
 
-                                    </div>
-            </td>
-        </tr>
-    </table>
-</article>
-    
-
-    
-
-<article class="js-listing-item c-job-item w-gap-lg js-dtl js-clickable" data-listing='{"id":"1ef0f4c0-3e57-66b8-8f22-8af1c4c40536","ppos":13,"pos":13,"pg":1,"sq":1,"e":0,"sp":2,"type":"dtl","dtl":{"tid":"ql-jbrpd-v1","tt":"type-query-location","s":"jobrapido"}}' data-href="https://in.jobsora.com/dtl/go?templateId=ql-jbrpd-v1&amp;hash=%257B%2522v%2522%253A%257B%2522l%2522%253A%2522Indore%2522%252C%2522lu%2522%253A%2522Indore%2522%252C%2522q%2522%253A%2522For%2B12Th%2BPass%2522%252C%2522qu%2522%253A%2522For%2B12Th%2BPass%2522%257D%252C%2522s%2522%253A%2522b8ca95fc198a64c0acc0ef385503db77%2522%257D" data-target="_blank">
-    <header class="c-job-item__header">
-        <div class="c-job-item__control">
-            <span class="c-link  js-dtl-hide-btn" type="button">
-                <svg class="c-ico-svg c-ico-svg--md c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M20.4,5.3l-1.7-1.7L12,10.3L5.3,3.6L3.6,5.3l6.7,6.7l-6.7,6.7l1.7,1.7l6.7-6.7l6.7,6.7l1.7-1.7L13.7,12L20.4,5.3z" fill="currentColor"></path></svg>            </span>
-        </div>
-        <div class="c-job-item__labels">
-            <span class="gui-label-help">Ad</span>
-        </div>
-        <h2 class="c-job-item__title">
-            <span class="c-link u-text-double-line">
-                For 12Th Pass: see latest job offers in Indore            </span>
-        </h2>
-    </header>
-
-    <table class="c-table-fixed">
-        <tr>
-            <td class="c-table-fixed__content">
-                                    <div class="c-job-item__info">
-                        <div class="c-job-item__info-item">
-                            <svg class="c-ico-svg c-ico-svg--sm c-ico-svg--inherit" viewBox="0 0 24 24"><path d="M12,6.5A2.5,2.5 0 0,1 14.5,9A2.5,2.5 0 0,1 12,11.5A2.5,2.5 0 0,1 9.5,9A2.5,2.5 0 0,1 12,6.5M12,2A7,7 0 0,1 19,9C19,14.25 12,22 12,22C12,22 5,14.25 5,9A7,7 0 0,1 12,2M12,4A5,5 0 0,0 7,9C7,10 7,12 12,18.71C17,12 17,10 17,9A5,5 0 0,0 12,4Z" fill="currentColor"></path></svg>                            Indore                        </div>
+                <div class="ap-search">
+                    <!-- <a href="http://fanverse.ipltt20-dev2.epicon.in/" target="_blank" class="fanverse">FANVERSE</a> -->
+                    <a href="javascript:;" class="ap-searchClick"><img class="lazy" src="https://www.iplt20.com/assets/images/new-search-icon.svg" alt="" style="opacity: 0;"></a>
+                    <!-- <a href="javascript:;" class="ap-fanPolls" data-toggle="modal" data-target="#fan"><img class="lazy" src="https://www.iplt20.com/assets/images/fanpolls.png" alt=""></a> -->
+                    <div class="fan-viewer">
+                       <a href="https://www.iplt20.com/fan-poll" class="ap-fanPolls"><img class="lazy" src="https://www.iplt20.com/assets/images/fan-poll.svg" alt=""></a>
+                         <a href="https://www.iplt20.com/polls" class="ap-fanPolls"><img class="lazy" src="https://www.iplt20.com/assets/images/viewers-choice.svg" alt=""></a>
+                        <a onclick="$('#searchTabForHeaderMenu').toggle();"><img class="lazy" src="https://www.iplt20.com/assets/images/new-search-icon.svg" alt=""></a>
                     </div>
-                                <p class="c-job-item__description">
-                    Quick, easy and convenient search. Test it out now!                </p>
-            </td>
-            <td class="c-table-fixed__btn">
-                <span class="c-job-item__btn">View salary & More Info</span>
-            </td>
-        </tr>
-    </table>
+                    <!-- <a href="javascript:void(0);" class="ap-mobile-menu-toggle">
+                        <img class="lazy" src="https://www.iplt20.com/assets/images/mob-ham.png" alt="">
+                    </a> -->
+                </div>
 
-</article><span id="results-a2DdSKO_-target"></span>
-                <div class="w-gap-lg">                    
-
-<div class="c-title-collapse">    <button type="button" class="c-title-collapse__title" data-toggle="collapse" data-target="#collapse-RmQOMgB8" aria-expanded="true">        About this job search result        <i class="material-icons c-ico c-ico--primary c-ico--md" data-ico="keyboard_arrow_down"></i>
-    </button>
-    <div id="collapse-RmQOMgB8" class="c-title-collapse__collapse collapse in">    <div class="c-title-collapse__inner">
-        <p>Are you looking for a For 12Th Pass job in the Indore? Whether you’re an experienced job-seeker or have never looked before, you may be asking yourself where to start.</p>
-
-<p>This area has been home to many long-standing businesses as well as several modern companies such as digital media, engineering and industrial services.</p>
-
-<p>If living and working in Indore is something that excites you, then the following article will provide some tips on how to locate available job opportunities in this vibrant metropolitan conurbation. We'll discuss the various sectors that exist, local employers who are recruiting now and different means of searching for roles online.</p>
-
-<h2>What do For 12Th Pass do?</h2>
-
-<p>For 12Th Pass is responsible for providing a range of services to the people of Indore, including education, social care, housing, planning and economic development. It works closely with local businesses and other organisations to ensure that the area remains prosperous and attractive to visitors.</p>
-
-<p>For 12Th Pass provides a wide range of services to its residents, including job search advice, training and development opportunities, and help with finding suitable accommodation.</p>
-
-<h3>Where can I find For 12Th Pass jobs in Indore?</h3>
-
-<p>There are a variety of ways to search for jobs in Indore. The most popular method is to use online job boards such as Jobsora. We allow you to filter your searches by location and sector so that you can easily find roles that match your skills and experience.</p>
-
-<p>You can also search for jobs on the Indore local job websites, which lists all current vacancies in the area. Additionally, you can contact local employers directly to enquire about any available positions.</p>
-
-<p>Finally, there are a number of recruitment agencies based in Indore that specialise in finding people to work in the area. These companies often have access to exclusive job opportunities that are not advertised elsewhere.</p>
-
-<p>In conclusion, there are a variety of ways to find For 12Th Pass jobs in Indore. Whether you’re looking for a permanent role or something more flexible, the borough has plenty of opportunities available. With the proper research and preparation, you can easily locate the perfect job for you.</p>
-
-<h2>How much do For 12Th Pass in Indore get paid?</h2>
-
-<p>For 12Th Pass in Indore are elected representatives of the local community, and they are paid an annual allowance for their work. The amount of this allowance is determined by the Independent Remuneration Panel for Indore, which reviews the allowances every four years.</p>
-    </div>
-</div></div>                    
-                                                                    
-
-<div class="c-title-collapse js-ft-container">    <button type="button" class="js-ft-toggler c-title-collapse__title" data-toggle="collapse" data-target="#collapse-Gx1OZuv3">        Location        <i class="material-icons c-ico c-ico--primary c-ico--md" data-ico="keyboard_arrow_down"></i>
-    </button>
-    <div id="collapse-Gx1OZuv3" class="c-title-collapse__collapse collapse">    <ul class="c-simple-list js-toggle-container">
-                    <li class="c-simple-list__item">
-                <a class="c-simple-list__link js-ft-item" href="https://in.jobsora.com/jobs-for-12th-pass-india" title="India">India</a>            </li>
-                    <li class="c-simple-list__item">
-                <a class="c-simple-list__link js-ft-item" href="https://in.jobsora.com/jobs-for-12th-pass-karnataka" title="Karnataka">Karnataka</a>            </li>
-                    <li class="c-simple-list__item">
-                <a class="c-simple-list__link js-ft-item" href="https://in.jobsora.com/jobs-for-12th-pass-maharashtra" title="Maharashtra">Maharashtra</a>            </li>
-                    <li class="c-simple-list__item">
-                <a class="c-simple-list__link js-ft-item" href="https://in.jobsora.com/jobs-for-12th-pass-bangalore-urban" title="Bangalore Urban">Bangalore Urban</a>            </li>
-                    <li class="c-simple-list__item">
-                <a class="c-simple-list__link js-ft-item" href="https://in.jobsora.com/jobs-for-12th-pass-bengaluru" title="Bangalore">Bangalore</a>            </li>
-                    <li class="c-simple-list__item">
-                <a class="c-simple-list__link js-ft-item" href="https://in.jobsora.com/jobs-for-12th-pass-tamil-nadu" title="Tamil Nadu">Tamil Nadu</a>            </li>
-                    <li class="c-simple-list__item">
-                <a class="c-simple-list__link js-ft-item" href="https://in.jobsora.com/jobs-for-12th-pass-mumbai-city-district" title="Mumbai City district">Mumbai City district</a>            </li>
-                    <li class="c-simple-list__item">
-                <a class="c-simple-list__link js-ft-item" href="https://in.jobsora.com/jobs-for-12th-pass-mumbai" title="Mumbai">Mumbai</a>            </li>
-                    <li class="c-simple-list__item">
-                <a class="c-simple-list__link js-ft-item" href="https://in.jobsora.com/jobs-for-12th-pass-uttar-pradesh" title="Uttar Pradesh">Uttar Pradesh</a>            </li>
-                    <li class="c-simple-list__item">
-                <a class="c-simple-list__link js-ft-item" href="https://in.jobsora.com/jobs-for-12th-pass-haryana-state" title="Haryana State">Haryana State</a>            </li>
-                    <li class="c-simple-list__item">
-                <a class="c-simple-list__link js-ft-item" href="https://in.jobsora.com/jobs-indore-district" title="Jobs in Indore District">Jobs in Indore District</a>            </li>
-                    <li class="c-simple-list__item">
-                <a class="c-simple-list__link js-ft-item" href="https://in.jobsora.com/jobs-indore" title="Jobs in Indore">Jobs in Indore</a>            </li>
-                    <li class="c-simple-list__item">
-                <a class="c-simple-list__link js-ft-item" href="https://in.jobsora.com/jobs-for-12th-pass" title="For 12Th Pass jobs">For 12Th Pass jobs</a>            </li>
-                    <li class="c-simple-list__item">
-                <a class="c-simple-list__link js-ft-item" href="https://in.jobsora.com/regions-for-12th-pass" title="other locations">other locations</a>            </li>
-                    </ul>
-</div></div>                                                
-
-<div class="c-title-collapse js-ft-container">    <button type="button" class="js-ft-toggler c-title-collapse__title" data-toggle="collapse" data-target="#collapse-YyoJIrv8">        Other        <i class="material-icons c-ico c-ico--primary c-ico--md" data-ico="keyboard_arrow_down"></i>
-    </button>
-    <div id="collapse-YyoJIrv8" class="c-title-collapse__collapse collapse">    <ul class="c-simple-list js-toggle-container">
-                    <li class="c-simple-list__item">
-                <a class="c-simple-list__link js-ft-item" href="https://in.jobsora.com/jobs-manager-indore" title="Manager">Manager</a>            </li>
-                    <li class="c-simple-list__item">
-                <a class="c-simple-list__link js-ft-item" href="https://in.jobsora.com/jobs-research-and-development-indore" title="Research And Development">Research And Development</a>            </li>
-                    <li class="c-simple-list__item">
-                <a class="c-simple-list__link js-ft-item" href="https://in.jobsora.com/jobs-developer-indore" title="Developer">Developer</a>            </li>
-                    <li class="c-simple-list__item">
-                <a class="c-simple-list__link js-ft-item" href="https://in.jobsora.com/jobs-business-development-manager-indore" title="Business Development Manager">Business Development Manager</a>            </li>
-                    <li class="c-simple-list__item">
-                <a class="c-simple-list__link js-ft-item" href="https://in.jobsora.com/jobs-work-experience-engineer-indore" title="Work Experience Engineer">Work Experience Engineer</a>            </li>
-                    <li class="c-simple-list__item">
-                <a class="c-simple-list__link js-ft-item" href="https://in.jobsora.com/jobs-customer-service-manager-indore" title="Customer Service Manager">Customer Service Manager</a>            </li>
-                    <li class="c-simple-list__item">
-                <a class="c-simple-list__link js-ft-item" href="https://in.jobsora.com/jobs-software-development-manager-indore" title="Software Development Manager">Software Development Manager</a>            </li>
-                    <li class="c-simple-list__item">
-                <a class="c-simple-list__link js-ft-item" href="https://in.jobsora.com/jobs-application-development-manager-indore" title="Application Development Manager">Application Development Manager</a>            </li>
-                    <li class="c-simple-list__item">
-                <a class="c-simple-list__link js-ft-item" href="https://in.jobsora.com/jobs-community-development-officer-indore" title="Community Development Officer">Community Development Officer</a>            </li>
-                    <li class="c-simple-list__item">
-                <a class="c-simple-list__link js-ft-item" href="https://in.jobsora.com/jobs-business-development-executive-indore" title="Business Development Executive">Business Development Executive</a>            </li>
-                    </ul>
-</div></div>                                                            </div>
-            </main>
-        </div>
-    </div>
-</div>
-
-
-
-    
-<div id="specify-search-params" class="c-modal-common c-modal-common--small fade js-modal-active">    <div class="c-modal-common__dialog">
-                    <button type="button" class="c-ico-button c-modal-common__close js-modal-close" data-dismiss="modal">                <i class="material-icons c-ico c-ico--xs" data-ico="close"></i>
-            </button>        
-        <div class="c-modal-common__content js-modal-content">                    <div class="c-modal-section">
-            <div class="w-gap-lg">
-                The Jobsora algorithm selects vacancies which is based on the parameters you set:                 <b>position, location, salary level, type of vacancy, etc.</b>
-            </div>
-            <div class="w-gap-lg">
-                The more parameters you specify, the more precisely, the algorithm will select vacancies for you.</div>
-            <div class="w-gap-lg">
-                <div class="grid-common grid-common--nowrap grid-common--gap-xs">
-                    <div class="grid-common__col">
-                        <i class="material-icons c-ico c-ico--primary c-ico--xs u-mt-7-neg u-mb-5-neg u-mr-3" data-ico="info"></i>
-                    </div>
-                    <div class="grid-common__col">
-                        We recommend you to specify such minimum search refinements:                         <br>
-                        <b>• Job title or company name</b>
+                <div class="header-search w-100 px-2 pt-3 pb-3" id="searchTabForHeaderMenu" style="display:none;" >
+                    <div class="w-100">
+                        <form action="https://www.iplt20.com/search" method="GET" class="d-flex flex-wrap">
+                                    <select name="type" id="search_type">
+                                        <option value="all" >All</option>
+                                        <option value="video" >Videos</option>
+                                        <option value="news" >News</option>
+                                    </select>
+                                    <input type="text" placeholder="Search here" id="searchInputForHeader" minlength="2" required name="text" value="">
+                                    <button type="submit" id="searchButtonForHeader" onclick="searchEvent(this)" class="btn btn-default btn-for-search p-0"> <i class="fa fa-search" aria-hidden="true"></i> <b>&nbsp;Search</b></button>
+                        </form>
                     </div>
                 </div>
             </div>
+        </div>
+        
+            </header>
+
+            <script defer src="https://www.iplt20.com/assets/js/ipl-custom.min.js?v=1.7.30"></script>
+        
+    <!--navigation menu end-->
+         <body class="js-body-content" ng-app="MyApp">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PQ2QKF4"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div style="display: none;" class="loader-main">
+         <div class="loader"></div>
+     </div>
+     
+    
+
+    
+
+    <div class="matchCenter stats-widget" ng-controller="mcCtrl" smstatswidget></div>
+    
+    
+
+    
+
+    
+
+    
+
+ 
+    <!--sponsor logo start section -->
+<footer class="col-100 floatLft relative" id="footer-main" style="background:#11141C;">
+    <div class="ap-small-spons-first ap-small-spons-first-bg d-none">
+            <div class="ap-spons-title-spo rightBorder py-4" style="border:none">
+            <div class="ap-common-spons-title-ts textCenter text-white">TITLE SPONSOR</div>
+                                    <div class="ap-vivo-img2 text-center"><a onclick="outbound_click(this)" data-event_context="Sponsor" data-element_text="TATA IPL" href="https://www.tata.com/" target="_blank"><img class="lazy" src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/bcci/live_blog/1644520414_tata-logo.png" alt=""></a></div>
+                                </div>
+    </div>
+
+
+    <div class="ap-footer-wrapper first d-none" >
+        <div class="container">
+        <div class="ap-sponserers-wrp col-100 floatLft">
+            <div class="ap-all-spons col-100 floatLft flexDisplay justifySpace alignCenter flexWrap">
+                <!-- <div class="ap-small-spons-first flexDisplay justifySpace d-tsponsor-none">
+                    <div class="ap-spons-title-spo rightBorder" style="border:none">
+                        <div class="ap-common-spons-title-ts textCenter">TITLE SPONSOR</div>
+                                                                        <div class="ap-vivo-img2 text-center"><a href="https://www.tata.com/" target="_blank"><img class="lazy" src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/bcci/live_blog/1644520414_tata-logo.png" alt=""></a></div>
+                                                                    </div>
+                </div> -->
+
+                <div class="ap-small-spons-first flexDisplay justifySpace d-tsponsor2-none">
+                    <div class="ap-spons-1 footer-br2">
+                        <div class="ap-common-spons-title textCenter">OFFICIAL <br> BROADCASTER</div>
+                                                                                                <div class="ap-vivo-img"><a href="https://www.hotstar.com/in" target="_blank"><img class="lazy" src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/bcci/live_blog/1680104749_StarSports_Logo-Tagline%203.png" alt=""></a></div>
+                                                                    </div>
+                    <!-- <div class="ap-spons-title-spo rightBorder">
+                        <div class="ap-common-spons-title-ts textCenter">TITLE SPONSOR</div>
+                                                                        <div class="ap-vivo-img2 text-center"><a href="https://www.tata.com/" target="_blank"><img class="lazy" src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/bcci/live_blog/1644520414_tata-logo.png" alt=""></a></div>
+                                                                    </div> -->
+                    <div class="ap-spons-1 ap-no-bor">
+                        <div class="ap-common-spons-title textCenter">OFFICIAL DIGITAL <br> STREAMING PARTNER</div>
+                                                                                                <div class="ap-vivo-img"><a href="https://www.jiocinema.com/" target="_blank"><img class="lazy" src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/bcci/live_blog/1671017722_Jio%20CinemaAsset%202%201.png" alt=""></a></div>
+                                                                    </div>
+                </div>
+
+                <!-- <div class="ap-large-spons">
+                    <div class="ap-common-spons-title textCenter" style="height: 80px;">OFFICIAL PARTNERS</div>
+                    <ul class="ap-inner-spons col-100 floatLft flexDisplay justifySpace alignCenter"> 
+                                                                                                <li><a href="https://www.dream11.com/fantasy-cricket" target="_blank"><img class="lazy" src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/bcci/live_blog/1646835698_dream11.png" alt="Fantasy Cricket"></a></li>
+                                                                        <li><a href="https://unacademy.com/" target="_blank"><img class="lazy" src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/bcci/live_blog/1678119494_Cred.png" alt=""></a></li>
+                                                                        <li><a href="https://cred.club/" target="_blank"><img class="lazy" src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/bcci/live_blog/1678119570_Upstox.png" alt=""></a></li>
+                                                                        <li><a href="https://upstox.com/" target="_blank"><img class="lazy" src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/bcci/live_blog/1679731178_Rupay.png" alt=""></a></li>
+                                                                        <li><a href="https://www.swiggy.com/swiggy-instamart" target="_blank"><img class="lazy" src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/bcci/live_blog/1679731219_saudi-new-logo.png" alt=""></a></li>
+                                                                        <li><a href="" target="_blank"><img class="lazy" src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/bcci/live_blog/1680102806_herballife.png" alt=""></a></li>
+                                                                    </ul>
+                </div> -->
+
+                <div class="ap-large-spons">
+                    <div class="ap-common-spons-title textCenter als-mb-0" style="height: 38px;">OFFICIAL PARTNERS</div>
+                    <ul class="ap-inner-spons col-100 floatLft flexDisplay justifySpace alignCenter flex-wrap mb-0"> 
+                                                                                                <li><a onclick="outbound_click(this)" data-event_context="official partner" data-element_text="Fantasy Cricket" href="https://www.dream11.com/fantasy-cricket" target="_blank"><img class="lazy" src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/bcci/live_blog/1646835698_dream11.png" alt="Fantasy Cricket"></a></li>
+                                                                        <li><a onclick="outbound_click(this)" data-event_context="official partner" data-element_text="Cred" href="https://cred.club/" target="_blank"><img class="lazy" src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/bcci/live_blog/1678119494_Cred.png" alt="Cred"></a></li>
+                                                                        <li><a onclick="outbound_click(this)" data-event_context="official partner" data-element_text="Upstox" href="https://upstox.com/" target="_blank"><img class="lazy" src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/bcci/live_blog/1678119570_Upstox.png" alt="Upstox"></a></li>
+                                                                        <li><a onclick="outbound_click(this)" data-event_context="official partner" data-element_text="Rupay" href="https://www.rupay.co.in/" target="_blank"><img class="lazy" src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/bcci/live_blog/1679731178_Rupay.png" alt="Rupay"></a></li>
+                                                                        <li><a onclick="outbound_click(this)" data-event_context="official partner" data-element_text="visitsaudi" href="https://www.visitsaudi.com/en" target="_blank"><img class="lazy" src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/bcci/live_blog/1679731219_saudi-new-logo.png" alt="visitsaudi"></a></li>
+                                                                        <li><a onclick="outbound_click(this)" data-event_context="official partner" data-element_text="herbalife" href="https://www.herbalife.co.in/" target="_blank"><img class="lazy" src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/bcci/live_blog/1680102806_herballife.png" alt="herbalife"></a></li>
+                                                                    </ul>
+                </div>
+
+                <div class="ap-small-spons flexDisplay ap-small-spons-flex-wrap sp-ft-res">
+                    <div class="ap-spons-title-spo-right footer-br textCenter">
+                        <div class="ap-common-spons-title textCenter">OFFICIAL ORANGE CAP <br>AND PURPLE CAP PARTNER</div>
+                                                                                                <div class="avis-2"><a onclick="outbound_click(this)" data-event_context="official orange cap and purple cap partner" data-element_text="Aramco" href="https://www.aramco.com" target="_blank"><img class="lazy" src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/bcci/logo/1647964934_aramco.png" alt=""></a></div>
+                                                                    </div>
+                    <div class="ap-spons-1 footer-br textCenter taleft sp-icon-mob">
+                        <div class="ap-common-spons-title textCenter m-aut" style="width:148px">OFFICIAL UMPIRE<br> PARTNER</div>
+                                                                                                <div class="ap-vivo-img avis avisl"><a onclick="outbound_click(this)" data-event_context="official umpire partner" data-element_text="Paytm" href="https://paytm.com/" target="_blank"><img class="lazy" src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/bcci/live_blog/1633588474_sponsor-paytm.webp" alt=""></a></div>
+                                                                    </div>
+                    <div class="ap-spons-1 footer-br textCenter taright sp-icon-mob">
+                        <div class="ap-common-spons-title textCenter">OFFICIAL STRATEGIC <br> TIMEOUT PARTNER</div>
+                                                                                                <div class="ap-vivo-img avis avisr"><a href="https://www.ceat.com/" target="_blank"><img class="lazy" src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/bcci/live_blog/1633588547_sponsor-ceat.webp" alt=""></a></div>
+                                                                    </div>
+                    <div class="ap-spons-1 footer-br o-broad">
+                        <div class="ap-common-spons-title textCenter">OFFICIAL <br> BROADCASTER</div>
+                                                                                                <div class="ap-vivo-img"><a href="https://www.hotstar.com/in" target="_blank"><img class="lazy" src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/bcci/live_blog/1680104749_StarSports_Logo-Tagline%203.png" alt=""></a></div>
+                                                                    </div>
+                    <div class="ap-spons-1 ap-no-bor o-broad">
+                        <div class="ap-common-spons-title textCenter">OFFICIAL DIGITAL <br> STREAMING PARTNER</div>
+                                                                                                <div class="ap-vivo-img"><a href="https://www.jiocinema.com/" target="_blank"><img class="lazy" src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/bcci/live_blog/1671017722_Jio%20CinemaAsset%202%201.png" alt=""></a></div>
+                                                                    </div>
+                </div>
+                <div class="spo-footer-mob w-100" style="display:contents">
+                <div class="ap-spons-1 footer-br" style="position:relative;top:30px;width:30%">
+                        <div class="ap-common-spons-title textCenter m-aut" style="width:114px">OFFICIAL <br> UMPIRE PARTNER</div>
+                                                                                                <div class="ap-vivo-img avis avisl"><a href="https://paytm.com/" target="_blank"><img class="lazy" src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/bcci/live_blog/1633588474_sponsor-paytm.webp" alt=""></a></div>
+                                                                    </div>
+                    <div style="width:40%">
+                        <div class="ap-common-spons-title textCenter">OFFICIAL ORANGE CAP <br>AND PURPLE CAP PARTNER</div>
+                                                                                                <div class="avis-2 aramco-ft"><a href="https://www.aramco.com" target="_blank"><img class="lazy" src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/bcci/logo/1647964934_aramco.png" alt=""></a></div>
+                                                                    </div>
+                    <div class="ap-spons-1" style="position:relative;top:30px;width:30%">
+                        <div class="ap-common-spons-title textCenter">OFFICIAL STRATEGIC <br> TIMEOUT PARTNER</div>
+                                                                                                <div class="ap-vivo-img avis avisr"><a href="https://www.ceat.com/" target="_blank"><img class="lazy" src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/bcci/live_blog/1633588547_sponsor-ceat.webp" alt=""></a></div>
+                                                                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+
+    <div class="new-sponsor-panel">
+        <div class="new-sponsor-panel__tata">
+            <span class="new-sponsor-panel__font title-text-height">title sponsor</span>
+            <a href="https://www.tata.com/" class="new-sponsor-panel__logo--wrap--1" target="_blank">
+                <img class="new-sponsor-panel__logo" src="https://www.iplt20.com/assets/images/new-sponsor-tata-logo.svg" alt=""  width="120" height="120">
+            </a>
+        </div>
+        <div class="new-sponsor-panel__angelo__rupay">
+            <span class="new-sponsor-panel__font">associate partner</span>
+            <div class="new-sponsor-panel__logo--wrap">
+                <a href="https://www.my11circle.com/" target="_blank">
+                    <img class="new-sponsor-panel__logo" src="https://www.iplt20.com/assets/images/new-sponsor-my11circle-logo.svg" alt=""  width="185" height="120">
+                </a>
+                <a href="https://www.angelone.in/" target="_blank">
+                    <img class="new-sponsor-panel__logo" src="https://www.iplt20.com/assets/images/new-sponsor-angelone-logo.svg" alt=""  width="196" height="120">
+                </a>
+                <a href="https://www.rupay.co.in/" target="_blank">
+                    <img class="new-sponsor-panel__logo" src="https://www.iplt20.com/assets/images/new-sponsor-rupay-logo.svg" alt=""  width="148" height="120">
+                </a>
+            </div>
+        </div>
+        <div class="new-sponsor-panel__ceat">
+            <span class="new-sponsor-panel__font">official strategic <br>timeout partner</span>
+            <a href="https://www.ceat.com/" class="new-sponsor-panel__logo--wrap--1" target="_blank">
+                    <img class="new-sponsor-panel__logo" src="https://www.iplt20.com/assets/images/new-sponsor-ceat-logo.svg" alt="" width="130" height="120">
+            </a>
+        </div>
+        <div class="new-sponsor-panel__start">
+            <span class="new-sponsor-panel__font">official <br>broadcaster</span>
+            <a href="https://www.hotstar.com/in/home?ref=%2Fin" class="new-sponsor-panel__logo--wrap--1" target="_blank">
+                <img class="new-sponsor-panel__logo" src="https://www.iplt20.com/assets/images/new-sponsor-start-sports-logo.svg" alt="" width="105" height="120">
+            </a>
+        </div>
+        <div class="new-sponsor-panel__jio border-0">
+            <span class="new-sponsor-panel__font">official digital<br>streaming partner</span>
+            <a href="https://www.jiocinema.com/" class="new-sponsor-panel__logo--wrap--1" target="_blank">
+                <img class="new-sponsor-panel__logo" src="https://www.iplt20.com/assets/images/new-sponsor-jio-cenema-logo.svg" alt="" width="85" height="120">
+            </a>
+        </div>
+    </div>
+
+    
+
+    
+    
+     
+    <div class="ap-footer col-100 floatLft relative flexDisplay justifyCenter flex-wrap">
+        <div class="container pb-4">
+            <div class="row">
+                <div class="ap-footer-wrapper border-0">
+                    <div class="ap-footer-inner col-100 floatLft">
+                                                                       
+                        <div class="ap-foot-menu">
+                            <h2 class="ap-foot-head">TEAM</h2>
+                            <ul class="ap-foot-nav col-100 floatLft">
+                                                                                                 
+                                <li><a onclick="click_menu(this)" data-event_context="footer" data-element_text="Chennai super kings" href="https://www.iplt20.com/teams/chennai-super-kings">Chennai super kings</a></li>
+                                                                                                 
+                                <li><a onclick="click_menu(this)" data-event_context="footer" data-element_text="Delhi Capitals" href="https://www.iplt20.com/teams/delhi-capitals">Delhi Capitals</a></li>
+                                                                                                 
+                                <li><a onclick="click_menu(this)" data-event_context="footer" data-element_text="Gujarat Titans" href="https://www.iplt20.com/teams/gujarat-titans">Gujarat Titans</a></li>
+                                                                                                 
+                                <li><a onclick="click_menu(this)" data-event_context="footer" data-element_text="Kolkata Knight Riders" href="https://www.iplt20.com/teams/kolkata-knight-riders">Kolkata Knight Riders</a></li>
+                                                                                                 
+                                <li><a onclick="click_menu(this)" data-event_context="footer" data-element_text="Lucknow Super Giants" href="https://www.iplt20.com/teams/lucknow-super-giants">Lucknow Super Giants</a></li>
+                                                                                                 
+                                <li><a onclick="click_menu(this)" data-event_context="footer" data-element_text="Mumbai Indians" href="https://www.iplt20.com/teams/mumbai-indians">Mumbai Indians</a></li>
+                                                                                                 
+                                <li><a onclick="click_menu(this)" data-event_context="footer" data-element_text="Punjab Kings" href="https://www.iplt20.com/teams/punjab-kings">Punjab Kings</a></li>
+                                                                                                 
+                                <li><a onclick="click_menu(this)" data-event_context="footer" data-element_text="Rajasthan Royals" href="https://www.iplt20.com/teams/rajasthan-royals">Rajasthan Royals</a></li>
+                                                                                                 
+                                <li><a onclick="click_menu(this)" data-event_context="footer" data-element_text="Royal Challengers Bengaluru" href="https://www.iplt20.com/teams/royal-challengers-bangalore">Royal Challengers Bengaluru</a></li>
+                                                                                                 
+                                <li><a onclick="click_menu(this)" data-event_context="footer" data-element_text="Sunrisers Hyderabad" href="https://www.iplt20.com/teams/sunrisers-hyderabad">Sunrisers Hyderabad</a></li>
+                                                                 
+                                                                
+                                
+                            </ul>
+                        </div>
+                                               
+                        <div class="ap-foot-menu">
+                            <h2 class="ap-foot-head">ABOUT</h2>
+                            <ul class="ap-foot-nav col-100 floatLft">
+                                                                                                 
+                                <li><a onclick="click_menu(this)" data-event_context="footer" data-element_text="About Us" href="https://www.iplt20.com/about/about-us">About Us</a></li>
+                                                                                                 
+                                <li><a onclick="click_menu(this)" data-event_context="footer" data-element_text="Anti Corruption Policy" href="https://www.iplt20.com/about/anti-corruption-policy?id=260">Anti Corruption Policy</a></li>
+                                                                                                 
+                                <li><a onclick="click_menu(this)" data-event_context="footer" data-element_text="Anti Doping Policy" href="https://www.iplt20.com/about/anti-doping-policy?id=261">Anti Doping Policy</a></li>
+                                                                                                 
+                                <li><a onclick="click_menu(this)" data-event_context="footer" data-element_text="TUE Application Form" href="https://www.iplt20.com/about/tue-application-form?id=265">TUE Application Form</a></li>
+                                                                                                 
+                                <li><a onclick="click_menu(this)" data-event_context="footer" data-element_text="Anti Discrimination Policy" href="https://www.iplt20.com/about/anti-racism-policy?id=266">Anti Discrimination Policy</a></li>
+                                                                                                 
+                                <li><a onclick="click_menu(this)" data-event_context="footer" data-element_text="Clothing and Equipment Regulations" href="https://www.iplt20.com/about/clothing-and-equipment-regulations?id=267">Clothing and Equipment Regulations</a></li>
+                                                                                                 
+                                <li><a onclick="click_menu(this)" data-event_context="footer" data-element_text="Code Of Conduct For Players and Teams Officials" href="https://www.iplt20.com/about/code-of-conduct-for-players-and-team-officials?id=268">Code Of Conduct For Players and Teams Officials</a></li>
+                                                                                                 
+                                <li><a onclick="click_menu(this)" data-event_context="footer" data-element_text="News Access Regulations" href="https://www.iplt20.com/about/news-access-regulations?id=270">News Access Regulations</a></li>
+                                                                                                 
+                                <li><a onclick="click_menu(this)" data-event_context="footer" data-element_text="Image Use Terms" href="https://www.iplt20.com/about/image-use-terms?id=271">Image Use Terms</a></li>
+                                                                 
+                                                                
+                                
+                            </ul>
+                        </div>
+                                               
+                        <div class="ap-foot-menu">
+                            <h2 class="ap-foot-head">GUIDELINES</h2>
+                            <ul class="ap-foot-nav col-100 floatLft">
+                                                                                                 
+                                <li><a onclick="click_menu(this)" data-event_context="footer" data-element_text="IPL Code Of Conduct For Match Officials" href="https://www.iplt20.com/about/about-us">IPL Code Of Conduct For Match Officials</a></li>
+                                                                                                 
+                                <li><a onclick="click_menu(this)" data-event_context="footer" data-element_text="Brand And Protection Guidelines" href="https://documents.iplt20.com/bcci/documents/1680174721009_Brand&amp;ContentProtectionGuidelines.pdf">Brand And Protection Guidelines</a></li>
+                                                                                                 
+                                <li><a onclick="click_menu(this)" data-event_context="footer" data-element_text="Governing Council" href="https://www.iplt20.com/about/governing-council?id=275">Governing Council</a></li>
+                                                                                                 
+                                <li><a onclick="click_menu(this)" data-event_context="footer" data-element_text="Match Playing Conditions" href="https://www.iplt20.com/about/match-playing-conditions?id=272">Match Playing Conditions</a></li>
+                                                                                                 
+                                <li><a onclick="click_menu(this)" data-event_context="footer" data-element_text="PMOA Minimum Standard" href="https://www.iplt20.com/about/pmoa-minimum-standard?id=273">PMOA Minimum Standard</a></li>
+                                                                                                 
+                                <li><a onclick="click_menu(this)" data-event_context="footer" data-element_text="Suspect Action Policy" href="https://www.iplt20.com/about/suspect-action-policy?id=290">Suspect Action Policy</a></li>
+                                                                 
+                                                                
+                                
+                            </ul>
+                        </div>
+                                               
+                        <div class="ap-foot-menu">
+                            <h2 class="ap-foot-head">CONTACT</h2>
+                            <ul class="ap-foot-nav col-100 floatLft">
+                                                                                                 
+                                <li><a onclick="click_menu(this)" data-event_context="footer" data-element_text="Contact Us" href="https://www.iplt20.com/about/contact-us">Contact Us</a></li>
+                                                                                                 
+                                <li><a onclick="click_menu(this)" data-event_context="footer" data-element_text="Sponsorship" href="https://www.iplt20.com/about/contact-us">Sponsorship</a></li>
+                                                                 
+                                                                                                <li><a onclick="click_menu(this)" data-event_context="footer" data-element_text="Privacy Policy" href="https://www.iplt20.com/privacy-policy">Privacy Policy</a></li>
+                                
+                                
+                            </ul>
+                        </div>
+                                                
+                                                
                     </div>
-            </div>    </div>
-</div>
-    </div>
-    <div class="w-page__bottom">
+                </div>
+            </div>
+        </div>
         
-<footer class="c-footer">
-    <div class="c-footer__content">
-        <div class="c-footer__text">
-            © 2024, Jobsora.com        </div>
-
-        <div class="c-footer__menu">
-                            <a class="c-footer__menu-link" href="https://in.jobsora.com/terms" rel="nofollow">Terms of Use</a>                            <a class="c-footer__menu-link" href="https://in.jobsora.com/privacy" rel="nofollow">Privacy Policy</a>                            <a class="csconsentlink c-footer__menu-link" href="javascript:void(0)" rel="nofollow">Cookie Settings</a>                            <a class="c-footer__menu-link" href="https://in.jobsora.com/about-us" rel="nofollow">About Us</a>                            <a class="c-footer__menu-link" href="https://in.jobsora.com/partner" rel="nofollow">For job boards</a>                            <a class="c-footer__menu-link" href="https://jobsora.com">Jobsora in other countries</a>                            <a class="c-footer__menu-link" href="https://in.jobsora.com/contacts" rel="nofollow">Contact Us</a>                    </div>
-    </div>
-</footer>
-    </div>
-</div>
-
-        <div class="c-drawer js-drawer">
-    <span class="c-drawer__backdrop js-drawer-toggler"></span>
-    <div class="c-drawer__dialog">
-        <div class="c-drawer__section c-drawer__head">
-            <div class="c-drawer__title">Menu</div>
-            <button class="c-ico-button c-ico-button--primary c-drawer__close js-drawer-toggler">
-                <i class="material-icons c-ico c-ico--md" data-ico="close"></i>
-            </button>
+        <div class="ap-copy col-100 floatLft">
+            <p class="mb-0 w-100 text-center">Copyright © IPL 2024 All Rights Reserved.</p>
         </div>
-
+    </div>
+    </div>
+        <script src="https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js?v=1.7.30"></script>
         
-        <div class="c-drawer__section">
-            <ul class="c-menu-list">
-                <li class="c-menu-list__item">
-                    <i class="material-icons c-ico c-ico--primary" data-ico="business_center"></i>
-                    <a class="c-menu-list__link" href="https://in.jobsora.com/">All jobs</a>
-                </li>
-                <li class="c-menu-list__item">
-                    <i class="material-icons c-ico c-ico--primary" data-ico="search"></i>
-                    <a class="c-menu-list__link" href="https://in.jobsora.com/jobs" rel="nofollow">New Search</a>
-                </li>
-                                    <li class="c-menu-list__item">
-                        <i class="material-icons c-ico c-ico--primary" data-ico="calendar_today"></i>
-                        <a class="c-menu-list__link" href="https://in.jobsora.com/events" rel="nofollow">Events</a>
-                    </li>
-                            </ul>
-        </div>
+        <script src="https://www.iplt20.com/assets/js/ddtf.js?v=1.7.30"></script>
+    <script src="https://www.iplt20.com/assets/js/news/news.js?v=1.7.30" type="text/javascript"></script>
+    
+    <!-- script file from header start-->
+    <script defer src="https://www.iplt20.com/assets/js/mix-slick-flipdown-magnific-popup.js?v=1.7.30"></script>
+    
 
-        <div class="c-drawer__section">
-            <ul class="c-menu-list">
-                <li class="c-menu-list__item">
-                    <i class="material-icons c-ico c-ico--primary" data-ico="bookmark"></i>
-                    <a class="c-menu-list__link" href="https://in.jobsora.com/bookmarks" rel="nofollow">Bookmarks</a>
-                </li>
-                                                    <li class="c-menu-list__item">
-                        <i class="material-icons c-ico c-ico--primary" data-ico="assignment_ind"></i>
-                        <a class="c-menu-list__link" href="https://in.jobsora.com/account/cv">CV</a>
-                    </li>
-                            </ul>
-        </div>
+    
+    <!-- script file from header end-->
 
-        <div class="c-drawer__section">
-            <ul class="c-menu-list">
-                                    <li class="c-menu-list__item">
-                        <i class="material-icons c-ico c-ico--primary" data-ico="exit_to_app"></i>
-                        <a class="c-menu-list__link" href="https://in.jobsora.com/login" rel="nofollow">Login</a>
-                    </li>
-                            </ul>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  
+    <script src="https://www.iplt20.com/assets/js/video_js/brightcove_palyer.js?v=1.7.30"></script>
+    
+
+    
+
+    <script> 
+        $(document).on("click", '.fa-whatsapp', function(event) { 
+          var datatext=$(this).closest('a').first().next('a').attr('data-shareurl');
+           if(datatext != undefined){
+            // var url='https://wa.me/?text='+datatext;
+             var url='https://api.whatsapp.com/send?text='+datatext;
+            window.open(url, '_blank');          
+           }
+        });  
+              
+
+        ///////// Google Event Tracking ////////////
+        var dt = 0;
+        $(document).ready(function() {
+           dt = new Date();
+            //  var title = $('#page_title').data("page-title");
+            //  dataLayer.push({
+            //     'client_ga_id': '308089989',
+            //     'content_type': title,
+            //     'platform_type': 'web',
+            //     'environment': 'production',
+            // });
+        function setCookie(cookieName, cookieValue, expiryDays) {
+        const date = new Date();
+        //days
+        date.setTime(date.getTime() + (expiryDays * 24 * 60 * 60 * 1000));
+
+        //minute
+        // date.setTime(date.getTime() + (expiryDays * 60 * 1000));
+
+        const expires = 'expires=' + date.toUTCString();
+        document.cookie = cookieName + '=' + cookieValue + ';' + expires + ';path=/';
+        }
+        
+        function hideShowPageBlocker(){
+            const cookieValue = getCookie('showblocker');
+            // Get the current URL path
+            // var currentPath = window.location.pathname;
+
+            // Check if the term "auction" is present in the currentPath
+            // var isAuctionPresent = currentPath.includes("auction");
+
+            if(! cookieValue){
+                $('.page-blocker').modal('show');
+            }
+        }
+
+        var typeParam = new URLSearchParams(window.location.search).get('type');
+        var appTypeParam = new URLSearchParams(window.location.search).get('apptype');
+
+        if (typeParam != 'webview' && appTypeParam != 'webview') {
+        hideShowPageBlocker();
+        }
+
+        $('.page-blocker').on('click', function(event) {
+            if (!$(event.target).closest('.modal-body').length) {
+                setCookie('showblocker', '1', 1);
+                $('.page-blocker').hide();
+            }
+        });
+
+        $('.page-blocker .modal-body').click(function(){
+              setCookie('showblocker', '1', 1);
+              $('.page-blocker').hide();
+        });
+
+        }); 
+        function datalayers(){
+            var title = $('#page_title').data("page-title");
+             dataLayer.push({
+                'client_ga_id': '308089989',
+                'content_type': title,
+                'platform_type': 'web',
+                'environment': 'production',
+            });
+        }
+        function time_on_page(){
+            var date1 = new Date(); // current date
+            var timeDiff = Math.abs(dt.getTime() - date1.getTime()); // in miliseconds
+            var timeDiffInSecond = Math.ceil(timeDiff / 1000); // in second
+            return timeDiffInSecond;
+        }  
+        function click_social(elem){
+            window.google_tag_manager['GTM-PQ2QKF4'].dataLayer.reset();
+            datalayers();
+            var title = $(elem).data("title");
+            dataLayer.push({
+                'event': 'click_social',
+                'element_text': title,
+                'time_on_page': time_on_page(),
+            });
+            window.google_tag_manager['GTM-PQ2QKF4'].dataLayer.reset();
+        }
+        function click_carousel(elem){
+            window.google_tag_manager['GTM-PQ2QKF4'].dataLayer.reset();
+            datalayers();
+            var title = $(elem).data("title");
+            dataLayer.push({
+                'event': 'click_carousel',
+                'element_text': title,
+                'time_on_page': time_on_page(),
+            });
+            window.google_tag_manager['GTM-PQ2QKF4'].dataLayer.reset();
+        }
+        function share(elem){
+            window.google_tag_manager['GTM-PQ2QKF4'].dataLayer.reset();
+            datalayers();
+            var title = $(elem).data("title");
+            var content_type = $(elem).data("type");
+            var share_method = $(elem).data("method");
+            dataLayer.push({
+            'event' : 'share',
+            'content_name' : title,
+            'content_type' : content_type,
+            'share_method' : share_method,
+            'time_on_page': time_on_page(),
+            });
+            window.google_tag_manager['GTM-PQ2QKF4'].dataLayer.reset();
+        }
+        function click_tile(elem){
+            window.google_tag_manager['GTM-PQ2QKF4'].dataLayer.reset();
+            datalayers();
+            var title = $(elem).data("title");
+            var content_type = $(elem).data("type");
+            dataLayer.push({
+            'event': 'click_tile',
+            'content_name': title, 
+            'event_context': content_type,
+            'time_on_page': time_on_page(),
+            });
+            window.google_tag_manager['GTM-PQ2QKF4'].dataLayer.reset();
+        }
+        function click_teams(elem){
+            window.google_tag_manager['GTM-PQ2QKF4'].dataLayer.reset();
+            datalayers();
+            var event_context = $(elem).data("event_context");
+            var team_name = $(elem).data("team_name");
+            var player_name = $(elem).data("player_name");
+            dataLayer.push({
+                'event' : 'click_teams',
+                'event_context' : event_context,
+                'team_name' : team_name,
+                'player_name' : player_name,
+                'time_on_page' : time_on_page(),
+            });
+            window.google_tag_manager['GTM-PQ2QKF4'].dataLayer.reset();
+        }
+
+        function click_teams1(elem){
+            window.google_tag_manager['GTM-PQ2QKF4'].dataLayer.reset();
+            datalayers();
+            var event_context = $(elem).data("event_context");
+            var team_name = $(elem).data("team_name");
+            dataLayer.push({
+                'event' : 'click_teams',
+                'event_context' : event_context,
+                'team_name' : team_name,
+                'time_on_page' : time_on_page(),
+            });
+            window.google_tag_manager['GTM-PQ2QKF4'].dataLayer.reset();
+        }
+        function outbound_click(elem){
+            window.google_tag_manager['GTM-PQ2QKF4'].dataLayer.reset();
+            datalayers();
+            var event_context = $(elem).data("event_context");
+            var element_text = $(elem).data("element_text");
+            dataLayer.push({
+                'event' : 'outbound_click',
+                'event_context' : event_context,
+                'element_text' : element_text,
+                'time_on_page' : time_on_page(),
+            });
+            window.google_tag_manager['GTM-PQ2QKF4'].dataLayer.reset();
+        }
+        function searchEvent(elem){
+            if($('#searchInputForHeader').val().trim()){
+                window.google_tag_manager['GTM-PQ2QKF4'].dataLayer.reset();
+                datalayers();
+                var event_context = $('#search_type option:selected').val();
+                var element_text1 = $('#searchInputForHeader').val();
+                var element_text = element_text1.trim();
+                dataLayer.push({
+                    'event' : 'search',
+                    'search_type' : event_context,
+                    'search_term' : element_text.toLowerCase(),
+                });
+                window.google_tag_manager['GTM-PQ2QKF4'].dataLayer.reset();
+            }
+        }
+        function click_search_results(elem){
+            window.google_tag_manager['GTM-PQ2QKF4'].dataLayer.reset();
+            datalayers();
+            var search_type = $('#search_type option:selected').val();
+            var search_term = $('#searchInputForHeader').val();
+            var element_text = $(elem).data("element_text");
+            dataLayer.push({
+                'event' : 'click_search_results',
+                'search_type' : search_type,
+                'search_term' : search_term,
+                'element_text' : element_text,
+                'time_on_page' : time_on_page(),
+            });
+            window.google_tag_manager['GTM-PQ2QKF4'].dataLayer.reset();
+        }
+        function click_menu(elem){
+            window.google_tag_manager['GTM-PQ2QKF4'].dataLayer.reset();
+            datalayers();
+            var event_context = $(elem).data("event_context");
+            var element_text = $(elem).data("element_text");
+            window.parent.dataLayer.push({
+                'event' : 'click_menu',
+                'event_context' : event_context,
+                'element_text' : element_text,
+                'time_on_page' : time_on_page(),
+            });
+            window.google_tag_manager['GTM-PQ2QKF4'].dataLayer.reset();
+        }
+        function video_start(dataduration,videoTitle){
+            window.google_tag_manager['GTM-PQ2QKF4'].dataLayer.reset();
+            datalayers();
+            dataLayer.push({
+                'event': 'video_start',
+                'video_duration': dataduration,
+                'video_name': videoTitle,
+            });
+            window.google_tag_manager['GTM-PQ2QKF4'].dataLayer.reset();
+        }
+        function video_pause(currentTime,duration,per,videoTitle){
+            window.google_tag_manager['GTM-PQ2QKF4'].dataLayer.reset();
+            datalayers();
+            dataLayer.push({
+                'event': 'video_pause',
+                'video_duration': duration,
+                'video_name': videoTitle,
+                'video_percent_viewed': per,
+                'video_seconds_viewed': currentTime,
+            });
+            window.google_tag_manager['GTM-PQ2QKF4'].dataLayer.reset();
+        }
+        // function video_progress(currentTime,duration,per,videoTitle){
+        //     window.google_tag_manager['GTM-PQ2QKF4'].dataLayer.reset();
+        //     datalayers();
+        //     dataLayer.push({
+        //         'event': 'video_progress',
+        //         'video_duration': duration,
+        //         'video_name': videoTitle,
+        //         'video_percent_viewed': per,
+        //         'video_seconds_viewed': currentTime,
+        //     });
+        //     window.google_tag_manager['GTM-PQ2QKF4'].dataLayer.reset();
+        // }
+        function video_complete(currentTime,duration,videoTitle){
+            window.google_tag_manager['GTM-PQ2QKF4'].dataLayer.reset();
+            datalayers();
+            dataLayer.push({
+                'event': 'video_complete',
+                'video_duration': duration,
+                'video_name': videoTitle,
+                'video_seconds_viewed': currentTime,
+            });
+            window.google_tag_manager['GTM-PQ2QKF4'].dataLayer.reset();
+        }
+        function click_cta(elem){
+            window.google_tag_manager['GTM-PQ2QKF4'].dataLayer.reset();
+            datalayers()
+            var event_context = $(elem).data("event_context");
+            var element_text = $(elem).data("element_text");
+            dataLayer.push({
+                'event' : 'click_cta',
+                'event_context' :event_context,
+                'element_text' : element_text,
+                'time_on_page' : time_on_page(),
+            });
+            window.google_tag_manager['GTM-PQ2QKF4'].dataLayer.reset();
+        }
+        ///////// End Google Event Tracking ////////////
+    
+        $('.copyUrl1').on('click', function(){
+            $(".ctc .c").text("Copied!");
+            var shareurl = $(this).attr('data-shareurl');
+            // var dummy = $('<input id="test">').val(shareurl);//.appendTo('body').select();
+            var dummy = document.createElement("input");
+            dummy.value = shareurl;
+            document.body.appendChild(dummy);
+            dummy.select();
+            dummy.focus();
+            document.execCommand('copy');            
+            document.body.removeChild(dummy); 
+            document.getElementById("cl").innerHTML = "Copied !";       
+      });
+
+        function CopyUrlSocial(itme) { 
+            var dataid = itme.id;
+            $(".ctc .c").text("Copied!");
+            var shareurl = $('#'+dataid).attr('data-shareurl');
+            // var dummy = $('<input id="test">').val(shareurl);//.appendTo('body').select();
+            var dummy = document.createElement("input");
+            dummy.value = shareurl;
+            document.body.appendChild(dummy);
+            dummy.select();
+            dummy.focus();
+            document.execCommand('copy');            
+            document.body.removeChild(dummy); 
+            // document.getElementById("cl").innerHTML = "Copied !";   
+        }
+
+        $('.copyUrl1').mouseout(function(){
+          $(".ctc .c").text("Copy");
+        });
+
+        window.onscroll = function() {
+            myFunction()
+        };
+
+        var header = document.getElementById("myHeader");
+        var sticky = header.offsetTop;
+
+        function myFunction() {
+            if (window.pageYOffset > sticky) {
+                header.classList.add("sticky");
+            } else {
+                header.classList.remove("sticky");
+            }
+        }
+
+        $(document).ready(function() {
+
+          if (window.console) {
+                setTimeout(function () {
+                    // console.clear();
+                }, 3000);
+            }
+            $('#ipl-slider').slick({
+                slidesToShow: 1,
+                slidesToScroll: 1,
+                arrows: true,
+                dots: false,
+                fade: true,
+                asNavFor: '#ipl-tab'
+            });
+            $('#ipl-tab').slick({
+                slidesToShow: 7,
+                slidesToScroll: 1,
+                arrows: true,
+                dots: false,
+                asNavFor: '#ipl-slider',
+                focusOnSelect: true,
+                centerMode: true,
+            });
+
+            $(".expand").click(function() {
+                $("body").addClass("scroll-hide");
+                $(this).addClass("hide");
+                $(".close-ipl").removeClass("hide");
+                $(".ipl-tab-slider").addClass("zoom-slider");
+            });
+            $(".close-ipl").click(function() {
+                $(this).addClass("hide");
+                $(".expand").removeClass("hide");
+                $(".ipl-tab-slider").removeClass("zoom-slider");
+                $("body").removeClass("scroll-hide");
+            });
+            setTimeout(function(){ if (window.console) {
+               // console.clear();
+            } }, 3000);
+        });
+
+            var queries = {};
+            $.each(document.location.search.substr(1).split('&'),function(c,q){
+                var i = q.split('=');
+                if((i != '')){
+                    queries[i[0].toString()] = i[1].toString();
+                }
+            });
+            if(queries.showframe=="true"){
+                $("#myHeader").hide();
+            }
+
+        // plugin build-in placeholder management
+        // $(function() {
+        //     $('.lazy').lazy({
+        //         placeholder: "data:image/gif;base64,R0lGODlhEALAPQAPzl5uLr9Nrl8e7..."
+        //     });
+        // });
+    </script>
+    					    <script src="https://scores.iplt20.com/ipl/mc/smHScript.js?v=1.7.30" type="text/javascript"></script>
+
+    </footer>
+<div class="cookie d-none ">
+    <div>
+        <a class="cookie__link" href="http://www.allaboutcookies.org/" title="Learn all about cookies and why sites use them" target="_blank">What are cookies?</a>
+        <br>
+        <p class="cookie__message">We and selected third parties use cookies or similar technologies for technical purposes and, with your consent, for other purposes as specified in the <a target="_blank" href="https://www.iplt20.com/cookie-policy">cookie policy.</a></p>
+        <!--<button class="cookie__decline btn btn-danger">Decline cookies</button>--->
+        <button class="cookie__accept cookie__accept_btn">Accept cookies</button>
+    </div>
+</div>
+
+<script>
+$(document).ready(function(){
+    $(".SMbriefScoreWidget").find(".smTabContent").hide();
+    $(".ap-copy").css("paddingBottom","15px");
+
+    function isCookieSet() {
+      // Replace 'your_cookie_name' with the actual name of your session cookie
+      return document.cookie.indexOf('username') !== -1;
+    }
+
+    if (!isCookieSet()) {
+        // Cookie is not set, hide the content
+        $('.cookie').removeClass('d-none');
+      }else{
+        $('.cookie').addClass('d-none');
+      }
+ })
+</script>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.2/lazysizes.min.js" integrity="sha512-q583ppKrCRc7N5O0n2nzUiJ+suUv7Et1JGels4bXOaMFQcamPk9HjdUknZuuFjBNs7tsMuadge5k9RzdmO+1GQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+
+ 
+     <div id="top"></div>
+<!-- ////////////// Brightcove player Model START //////////////////// -->
+<div class="modal fade vid-popup" id="exampleModal" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+    
+            <div class="ap-vd-pop-container col-100 floatLft" style="max-width:1600px;margin: 0 auto;">
+            
+                <div class="ap-vd-pop-inner col-100 floatLft relative">
+
+                    <a href="javascript:;" class="ap-vd-pop-close close absolute close_cross_button closeplayer main-vid-close" data-dismiss="modal" aria-label="Close"><img src="https://www.iplt20.com/assets/images/amit-assets/ap-close-pop-vd.png" alt=""></a>
+                    <div class="ap-vd-wrp col-100 floatLft flexDisplay justifySpace alignStart flexWrap">
+                    <div id="#gtt" tabindex='1'></div>
+                                                <div class="ap-video-list-wrp ap-common-sroll">
+                                                    
+                            <div class="ap-vd-iframe col-100 floatLft modal-body p-0">
+                                <!--start player -->
+                                <div>
+                                    <video-js id="myPlayers" data-account="3588749423001" data-video-id="" data-player="default" data-embed="default" controls="true" autoplay data-tracker-type="VIDEO" data-tracker-action="VIEW" data-application-id="" class="vjs-fluid"></video-js>
+                                </div>
+                                                                <script src="//players.brightcove.net/3588749423001/default_default/index.min.js">
+                                </script>
+                                                                <div class="vjs-playlist"></div>
+                                <!-- <video ref="Player" id="ipl-player" class="video-js vjs-big-play-centered vjs-show-big-play-button-on-pause" controls preload="auto" width="850" height="430" data-setup='{"playbackRates": [0.5, 1, 1.5, 2] }'></video> -->
+                                <!--end player -->
+
+                                
+                                    <div class="new-video-social col-100 floatLft textLeft">
+                                        <div class="popuptitle w-100"></div>
+                                        <div class="w-100 d-flex flex-wrap">
+                                            <div class="type-date-time d-flex justify-content-between">
+                                                <p class="d-flex align-items-center">
+                                                    <span class="d-flex align-items-center me-2 popupdate"></span>|<img src="https://www.iplt20.com/assets/images/new-eye.svg" class="mx-2" alt=""><span class="popupview me-2">0</span>|
+                                                    <span class="d-flex align-items-center mx-2 videopageduration">
+                                                    </span>
+                                                </p>               
+                                            </div>
+                                            <div class="new-video-share">
+                                                <span>Share video on :</span>
+                                                <a onclick="share(this)" data-title="" data-type="video" data-method="facebook" href="javascript:void(0);" target="_blank" class="js-share social-share-item__link mx-3 facebook"><i class="fa fa-facebook-f"></i></a>
+                                                <a onclick="share(this)" data-title="" data-type="video" data-method="twitter" href="javascript:void(0);" target="_blank" class="js-share social-share-item__link me-3 twitter"><i class="fa fa-twitter"></i></a>
+                                                <a onclick="share(this)" data-title="" data-type="video" data-method="Copy link" href="javascript:void(0)" class="copy-link copyUrl1  copyurlplay ctc">
+                                                    <i class="fa fa-link"></i><span class="c">Copy</span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="w-100 d-none">
+                                        
+                                        <ul class="ap-navigation social-media col-100 floatLft">
+                                      
+                                        </ul>
+                                    </div>
+                                </div>
+                                
+                            </div>
+
+                            
+                            <!-- magic Moments slider start-->
+                            <div class="ap-wickt-slider-outer col-100 floatLft" style="display: none;">
+                                <div class="ap-common-title-wrp col-100 floatLft flexDisplay justifySpace alignCenter mb-0">
+                                    <h2 class="what-r-u-text mb-0">Magic Moments</h2>
+                                    <a href="https://www.iplt20.com/video/magic-moments" class="ap-viewall-click wht">View All</a>
+                                </div>
+                                <div>
+                                    <div id="magicmomentVideo" class="ap-wickt-slider col-100 floatLft mb-0" id="">
+
+                                    </div>
+                                </div>
+
+                            </div>
+                            <!-- magic Moments slider end-->
+
+                            <!--Latest Videos slider start-->
+                                                        <div class="ap-wickt-slider-outer col-100 floatLft">
+                                <div class="ap-common-title-wrp col-100 floatLft flexDisplay justifySpace alignCenter mb-0">
+                                    <h2 class="what-r-u-text mb-0 mt-3">Related Videos</h2>
+                                    <!-- <div class="new-slide-controls d-flex align-items-center">
+                                        <a href="https://www.iplt20.com/video/all" class="me-3">See more</a>
+                                    </div> -->
+                                </div>
+                                <div>
+                                    <div id="popuplatest" class="ap-wickt-slider col-100 floatLft slick">
+
+                                    </div>
+                                </div>
+
+                            </div>
+                             
+                            <!--Latest Videos slider start-->
+
+                        </div>
+                                                <div class="ap-video-scroll-list ap-common-sroll">
+                            <h1 class="what-r-u-text-3 mb-0 mt-0 text-white wrut-drk ps-3">Highlights</h1>
+                            <div class="ap-vd-scroll-div col-100 floatLft " id="relatedVideo">
+                                Loading....
+                            </div>
+                        </div>
+                                            </div>
+                </div>
+            </div>
+      
+    </div>
+</div>
+</div>
+<!-- ////////////// Brightcove player Model END //////////////////// -->
+
+<!-- ////////////// Team player Details Model START //////////////////// -->
+
+<div class="modal fade vid-popup" id="playerModal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="ap-vd-pop-container col-100 floatLft">
+                <div class="ap-vd-pop-inner col-100 floatLft relative">
+                    <h1>Player Details</h1>
+                    <a href="javascript:;" class="ap-vd-pop-close close absolute close_cross_button closeplayer" data-dismiss="modal" aria-label="Close"><img src="https://www.iplt20.com/assets/images/amit-assets/ap-close-pop-vd.png" alt=""></a>
+                    <div class="ap-vd-wrp col-100 floatLft flexDisplay justifySpace alignStart flexWrap">
+                        <div class="ih-teams-squad-sec">
+                            <div class="ih-td-bgimg">
+
+                                <div class="ih-td-squad">
+
+                                    <div class="ih-td-tab-sec">
+                                        <div class="ih-td-tab1">
+                                            <div> <strong id="plyname"></strong><a href="" target="blank" class="profileLink"><span class="u-hide-tablet">- Player </span>Profile »</a></div>
+                                            <table width="100%" class="ih-td-tab">
+                                                <tbody>
+                                                    <tr>
+                                                        <th style="border-bottom:0px;">Role</th>
+                                                        <td id="plyrole">Batsman</td>
+                                                        <th style="border-bottom:0px;">Nationality</th>
+                                                        <td id="plyntn">Indian</td>
+                                                        <td rowspan="2">
+                                                            <div class="ap-plyer-img"><img id="plyimg" src="" alt=""></div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <th style="border-bottom:0px;">Bats</th>
+                                                        <td id="plybat"></td>
+                                                        <th style="border-bottom:0px;">Bowls</th>
+                                                        <td id="plyball" colspan="1"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan="5"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <th colspan="" style="border-bottom:0px;">Bio</th>
+                                                    </tr>
+                                                    <tr>
+                                                        <td id="plybio" colspan="4">A 22-year old opening batsman who hails from Pune, Ruturaj Gaikwad has been a consistent performer for his state team Maharashtra. He was the highest run-getter for Maharashtra in the league stage of the Syed Mushtaq Ali Trophy 2018-19. At the IPL 2019 Player Auction, the Chennai Super Kings secured his services at his base price of INR 20 lacs.</td>
+                                                        <td></td>
+
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>
-                        <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=595383295698601&ev=PageView&noscript=1" /></noscript>                        <script src="https://accounts.google.com/gsi/client" async defer></script>
-<script src="/static/assets/15ba7c3f/js/min/app.js?v=1713770721"></script>
-<script src="/static/assets/3d06c05d/js/yii.dynamicblocks.min.js?v=1545206987"></script>
-<script>yii.search.register({"searchHash":"{\u0022s\u0022:{\u0022qs\u0022:\u0022For 12Th Pass\u0022,\u0022sl\u0022:714031},\u0022h\u0022:\u002298a6426eab19c028d4e9856d46099b42\u0022}"});
-yii.search.extra({"handlerId":"results-a2DdSKO_-handler","targetId":"results-a2DdSKO_-target","preloadHtml":"\u003Cdiv class=\u0022c-preloader c-main-box w-gap-lg\u0022\u003E\u003C\/div\u003E\n"});</script>
-<script>jQuery(function ($) {
-yii.autoSubmitForm.register({"formClass":"js-auto-submit-form"});
-yii.filtersTracking.register({"containerCssClass":"js-ft-container","togglerCssClass":"js-ft-toggler","buttonCssClass":"js-ft-button","itemCssClass":"js-ft-item"});
-yii.salaryInput.register({"containerClass":"js-salary-input-container","itemContainerClass":"js-salary-input-item-container","itemClass":"js-salary-input-item","optionClass":"js-salary-input-option"});
-yii.toggle.register({"containerClass":"js-toggle-container","itemClass":"js-toggle-item","itemToggleClass":"u-hidden","handlerClass":"js-toggle-handler","handlerToggleClass":"is-hidden"});
-yii.multipleFilterInput.register({"containerClass":"js-multiple-filter-container","itemRadioClass":"js-multiple-filter-radio","itemCheckboxClass":"js-multiple-filter-checkbox"});
-yii.clickable.register({"clickableClass":"js-clickable"});
-yii.listing.register({"listingClass":"js-listing-item","dataAttribute":"listing","interactionSessionKey":"8cj79lQY"});
-yii.listing.prepare();
-
-yii.jobseekerBookmark.register({"addUrl":"https:\/\/in.jobsora.com\/bookmark\/add","removeUrl":"https:\/\/in.jobsora.com\/bookmark\/remove","dataAttributeVacancyId":"vacancy-id","dataAttributeLayout":"layout","dataAttributeInBookmark":"in-bookmark","toggleClass":"js-bookmark"});
-yii.hiddenVacancy.register({"hideUrl":"https:\/\/in.jobsora.com\/vacancy-search\/hide-vacancy","revertHidingUrl":"https:\/\/in.jobsora.com\/vacancy-search\/unhide-vacancy","containerClass":"js-vacancy-snippet","hideButtonClass":"js-hide-btn","vacancyIdDataAttribute":"id"})
-$('.js-dtl-hide-btn')
-    .on('click', function (e) {
-        e.preventDefault();
-        $(this).parents('.js-dtl').remove();
-        return false;
+<!-- ////////////// player Details Model END //////////////////// -->
+<script>
+if (window.history && window.history.pushState) {
+    $('#exampleModal').on('show.bs.modal', function (e) {
+        var currentURL = window.location.href;
+        var arr=currentURL.split('/')[3];
+        if(arr=='' || arr==null || arr==undefined)
+        {
+            var mainurl=currentURL+'#';
+            window.history.pushState('forward', null, mainurl);
+        }
     });
-yii.drawer.register({"drawerClass":"js-drawer","handlerClass":"js-drawer-toggler"});
-yii.autocomplete.register({"input":"#query-2r6nIvUZ","url":"https:\/\/in.jobsora.com\/ajax\/search-queries-suggestion","preset":"flex","minChars":0});
-yii.autocomplete.register({"input":"#location-lkrR_pAo","url":"https:\/\/in.jobsora.com\/ajax\/locations-suggestion","preset":"flex"});
-yii.focusOnSearchForm.register({"locationId":"location-lkrR_pAo","locationLinkClass":"js-sf-location","queryId":"query-2r6nIvUZ","queryLinkClass":"js-sf-query"});
-yii.searchForm.registerInput({"inputId":"query-2r6nIvUZ","triggerClass":"js-search-form-open"});
-yii.googleOneTapSignUp.initialize({"googleOptions":{"client_id":"987182443115-7qgg26nmits31l05l61cmoad95vq55s1.apps.googleusercontent.com"},"url":"https:\/\/in.jobsora.com\/vacancy-search\/google-one-tap-sign-up?searchHash=%7B%22s%22%3A%7B%22qs%22%3A%22For+12Th+Pass%22%2C%22sl%22%3A714031%7D%2C%22h%22%3A%2298a6426eab19c028d4e9856d46099b42%22%7D"});
-yii.dynamicblocks.initialize({"ajaxUrl":"https:\/\/in.jobsora.com\/ajax\/dynamic-blocks","blocks":{"BannerDynamicBlock":{"bannerTypeId":1,"layout":"search_side","q":507669,"l":714031}}});
-});</script>    </body>
-</html>
+
+    $(window).on('popstate', function () {
+        $('#exampleModal').modal('hide');
+        $('.closeplayer').trigger('click');
+        $('#storiesModal').modal('hide');
+        $('.closeplayerstories').trigger('click');
+    });
+}
+
+function copyUrlpopup(dataurl){
+       $(".ctc .c").text("Copied!");
+            var shareurl = dataurl;//$(this).attr('data-shareurl');
+            // var dummy = $('<input id="test">').val(shareurl);//.appendTo('body').select();
+            var dummy = document.createElement("input");
+            dummy.value = shareurl;
+            document.body.appendChild(dummy);
+            dummy.select();
+            dummy.focus();
+            document.execCommand('copy');            
+            document.body.removeChild(dummy); 
+            setTimeout(
+              function() 
+              {
+                $(".ctc .c").text("Copy");
+              }, 1000);
+            
+            document.getElementById("cl").innerHTML = "Copied !"; 
+    }
+
+ $('.copyUrl1').on('click', function(){
+           $(".ctc .c").text("Copied!");
+            var shareurl = $(this).attr('data-shareurl');
+            // var dummy = $('<input id="test">').val(shareurl);//.appendTo('body').select();
+            var dummy = document.createElement("input");
+            dummy.value = shareurl;
+            document.body.appendChild(dummy);
+            dummy.select();
+            dummy.focus();
+            document.execCommand('copy');            
+            document.body.removeChild(dummy); 
+            document.getElementById("cl").innerHTML = "Copied !";       
+      });
+        $('.copyUrl1').mouseout(function(){
+          $(".ctc .c").text("Copy");
+        });
+
+</script>
+     <!-- ////////////// Brightcove player Model START //////////////////// -->
+<div class="modal fade vid-popup" id="storiesModal" tabindex="-1" role="dialog" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content p-0">
+            <div class="progressBar">
+
+            </div>
+            <div class="story-modal">
+                <input type="hidden" id="mediaid" name="mediaid">
+                        <a href="javascript:;" class="ap-vd-pop-close close absolute close_cross_button closeplayerstories bg-transparent" data-dismiss="modal" aria-label="Close"><img src="https://www.iplt20.com/assets/images/amit-assets/ap-close-pop-vd.png" alt=""></a>
+                        <!-- Previous story Button -->
+                        <div class = "previousStoryBtn" is-prev="true"><img src="https://www.iplt20.com/assets/js/slick-slider/images/story-arrow.svg" alt="arrow"></div>
+                        <!-- Previous story Button -->
+                        <div class="story-iframe">
+                        <!--start player -->
+                        <!-- <div> -->
+                           <h2 class="stories-title">
+                            <!-- <span>Stories Title Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span> --> 
+                           </h2>
+                            <video-js id="myPlayersStories" data-account="3588749423001" data-video-id="" data-player="default" data-embed="default" controls="true" autoplay data-tracker-type="VIDEO" data-tracker-action="VIEW" data-application-id="" class="vjs-fluid"></video-js>
+                        <!-- </div> -->
+                                                <script src="//players.brightcove.net/3588749423001/default_default/index.min.js"></script>
+                                                <div class="vjs-playlist"></div>
+                        <!--end player -->
+                        </div>
+                        <!-- Next story button -->
+                        <div class = "nextStoryBtn" is-next="true"><img src="https://www.iplt20.com/assets/js/slick-slider/images/story-arrow-right.svg" alt="arrow"></div>
+                        <!-- Next Story Button -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ////////////// Brightcove player Model END //////////////////// -->
+             <script src="https://scores.iplt20.com/ipl/mc/smMCApp.js?v=1.7.30" type="text/javascript"></script>
+    <script src="https://scores.iplt20.com/ipl/mc/smMCConfig.js?v=1.7.30" type="text/javascript"></script>
+    <script src="https://scores.iplt20.com/ipl/mc/template-stats.js?v=1.7.30" type="text/javascript"></script>
+    <script src="https://scores.iplt20.com/ipl/mc/smMCController.js?v=1.7.30" type="text/javascript"></script>
+    <script src="https://scores.iplt20.com/ipl/mc/smMCService.js?v=1.7.30" type="text/javascript"></script>
+ </body>
+ </html>
